@@ -1,3 +1,5 @@
-theme: jekyll-theme-merlot
+remote_theme: seanh/jekyll-theme-oatcake@0.1.3
+plugins:
+- jekyll-feed
 title: Shining Nikki Designer's Reflection Guide
 author: lyn-f
