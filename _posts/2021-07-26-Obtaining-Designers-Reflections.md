@@ -135,7 +135,7 @@ Unlocking a Diamond Arena Exclusive item for purchase only needs to be done once
 
 On the Diamond Arena page, tap `Dress Up` to coordinate three outfits based on the Weekly Theme. Unlike the previous game in the *Nikki* series - *Love Nikki: Dress Up Queen* - you compete with other stylists based on the combined Styling Power of all three outfits combined, rather than competing based on popular vote. You can change any of your three outfits at any point during the week, as well as change which Designer's Reflections you want to use.
 
-Your combined Styling Power is also known as your Competence. You can see your current Competence and the Competence of your competitors listed beneath Tier Position. Your Competence updates in real time, so any upgrades to your Designer's Reflection will be reflected in your Competence.
+Your combined Styling Power is also known as your Competence. You can see your current Competence and the Competence of your competitors listed beneath Tier Position. Your Competence updates in real time, so any upgrades you make to your Styling Power - such as upgrading your Designer's Reflections - will be updated automatically in your Competence score.
 
 To challenge a stylist, tap on 1 of the 3 profile pictures at the bottom of the home page. Challenge stylists with a higher Tier Position than you to increase your own Tier Position. If you win, you will swap Tier Positions with the stylist you challenged; if you lose, your Tier Position will remain the same. You will receive the Diamond Arena currency *Flower of Odes* whether you win or lose, but you will earn a few more for winning. You can also tap the `Refresh` button to swap out the 3 stylists at the bottom of the page for 3 new ones.
 
