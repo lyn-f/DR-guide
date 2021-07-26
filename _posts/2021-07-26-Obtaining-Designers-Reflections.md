@@ -3,12 +3,12 @@
 To start using Designer's Reflections, you first need to learn where to collect them. Designer's Reflections are obtained in a variety of ways. In this section you will learn how to obtain Designer's Reflections from each of the following sources:
 
 * [Main Story and Mind Maze](#mainstory)
-* [Workshop](#shop)
+* [Workshop](#wshop)
 * [Designer Intel Hub](#intel)
-* Sea of Fantasy
-* Diamond Arena
-* Pinnacle Battle
-* Events
+* [Sea of Fantasy](#fantasy)
+* [Diamond Arena](#arena)
+* [Pinnacle Battle](#pinnacle)
+* [Events](#event)
 
 ### <a name="mainstory">Main Story and Mind Maze</a>
 
@@ -23,7 +23,7 @@ To access the Main Story from the home page, tap `Start Journey` at the bottom o
 > **Did you know?**  
 To access the Mind Maze and unlock additional Mind Maze stages, you need to progress in the Main Story.
 
-### <a name="shop">Workshop</a>
+### <a name="wshop">Workshop</a>
 
 As you progress through the Main Story and Mind Maze, you will unlock clothing sets in the Workshop. Once you finish crafting every piece in a Workshop set, you can Invoke the set to receive its Designer's Reflection.
 
@@ -83,13 +83,13 @@ Some of the Designer Column rewards may include sets whose clothing pieces or De
 4. Return to the Designer Column page and exchange Exclusive Intel for any prerequisite rewards
 5. Tap the Designer's Reflection to buy it with Exclusive Intel
 
-### Sea of Fantasy
+### <a name="fantasy">Sea of Fantasy</a>
 
 The Sea of Fantasy is a type of **gacha** <sup>[2](#gacha)</sup> game in *Shining Nikki.* You can Summon random items from the Sea of Fantasy using **Fantasy Tickets**, **Gleaming Shards** and **Gleaming Stars**.
 
 To find the Sea of Fantasy, tap `Gate of Heart` at the bottom of the home page. There are 2 versions of the Sea of Fantasy. *Sea of Fantasy: Gleam* features an increased drop rate for featured sets. These featured sets rotate weekly. The same items are available in the regular Sea of Fantasy, but the drop rates are a little bit different. You can cycle through the different gacha games in the Gate of Heart by tapping the arrows on the left and right of your screen.
 
-There is a third gacha game in the Gate of Heart called the *Sea of Mystery*. There are currently no Designer's Reflections available to win in the Sea of Mystery.
+There is a third gacha <sup>[2](#gacha)</sup> game in the Gate of Heart called the *Sea of Mystery*. There are currently no Designer's Reflections available to win in the Sea of Mystery.
 
 `add images Gate of Heart`
 
@@ -102,26 +102,36 @@ The following table shows the drop rate of Designer's Reflections in the Gate of
 | Sea of Mystery | Unavailable | | | | Only clothing can be won in Sea of Mystery |
 
 > **Did you know?**  
-Because there is randomness involved in gacha games, there is a chance that you will receive duplicate items. Duplicate Designer's Reflections will automatically be turned into **echoes** `glossary echoes`. Duplicate clothes and echoes can be Decomposed for Gold and upgrade materials. See `upgrades section on decomposition` for more information.
+Because there is randomness involved in gacha <sup>[2](#gacha)</sup> games, there is a chance that you will receive duplicate items. Duplicate Designer's Reflections will automatically be turned into **echoes** <sup>[1](#echo)</sup>. Duplicate clothes and echoes can be Decomposed for Gold and upgrade materials. See `upgrades section on decomposition` for more information.
 
 ##### Fantasy Tickets
 
-Fantasy Tickets can be obtained in a variety of ways, such as sign-in rewards, events, achievements, and more. Fantasy Tickets can also be purchased for Pink Gems, Guild Coins, Event Currency, or real money in the **Shop**`glossary shop`. You can quickly exchange Pink Gems for Fantasy Tickets by tapping `Summon` without any tickets in your inventory or `Summon x10` with less than 10 tickets in your inventory.
+Fantasy Tickets can be obtained in a variety of ways, such as sign-in rewards, events, achievements, and more. Fantasy Tickets can also be purchased for Pink Gems, Guild Coins, Event Currency, or real money in the **Shop**<sup>[3](#shop)</sup>. You can quickly exchange Pink Gems for Fantasy Tickets by tapping `Summon` without any tickets in your inventory or `Summon x10` with less than 10 tickets in your inventory.
 
 Summoning with 10 tickets at once will guarantee that you win at least one SSR item. Because many Designer's Reflections are rarity SSR and above, you may increase your odds of getting a Designer's Reflection by spending 10 Fantasy Tickets at once by tapping `Summon x10`. Keep in mind that you are not guaranteed to get a Designer's Reflection on every Summon, even if you use Summon x10. 
 
 ##### Gleaming Shards and Gleaming Stars
 
-Gleaming Shards and Gleaming Stars are an additional currency that can be used to Summon in Sea of Fantasy: Gleam. Gleaming Shards and Gleaming Stars can be purchased with **Star Gems** `glossary star gems`. The drop rates when using Gleaming Shards or Gleaming Stars are no different than using Fantasy Tickets. They are just another currency you can use to play Sea of Fantasy: Gleam. Keep in mind that you are not guaranteed to get a Designer's Reflection on every Summon.
+Gleaming Shards and Gleaming Stars are an additional currency that can be used to Summon in Sea of Fantasy: Gleam. Gleaming Shards and Gleaming Stars can be purchased with **Star Gems** <sup>[4](#stargem)</sup>. The drop rates when using Gleaming Shards or Gleaming Stars are no different than using Fantasy Tickets. They are just another currency you can use to play Sea of Fantasy: Gleam. Keep in mind that you are not guaranteed to get a Designer's Reflection on every Summon.
 
-### Diamond Arena
+### <a name="arena">Diamond Arena</a>
 
 The Diamond Arena
 
-### Pinnacle Battle
+### <a name="pinnacle">Pinnacle Battle</a>
 
-### Events
+### <a name="event">Events</a>
 
-<a name="echo">1</a>. **echo**: An extra copy of a Designer's Reflection which may be used for Awakening, upgrading Call of Reflection, or Decomposition
+--------
 
-<a name="gacha">2</a>. **gacha**: A mechanic based on gachapon machines where prizes are awarded to the player based on rarity and chance
+<a name="echo"><sup>1</sup></a> **echo**:  
+###### An extra copy of a Designer's Reflection which may be used for Awakening, upgrading Call of Reflection, or Decomposition
+
+<a name="gacha"><sup>2</sup></a> **gacha**:  
+###### A mechanic based on gachapon machines where prizes are awarded to the player based on rarity and chance
+
+<a name="shop"><sup>3</sup></a> **Shop**:  
+###### A place where players may exchange various in-game currencies or real currency for in-game rewards, located on the right side of the home page (not to be confused with the *Apple Apparel* clothing store)
+
+<a name="stargem"><sup>4</sup></a> **Star Gems**:  
+###### An in-game currency that may be purchased for real currency in the *Top Up* section of the Shop <sup>[3](#shop)</sup>
