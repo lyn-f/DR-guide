@@ -53,7 +53,7 @@ A Designer's Reflection may have additional requirements that need to be met bef
 
 ### <a name="intel">Designer Intel Hub</a>
 
-At the Designer Intel Hub, Nikki can perform Investigations on various designers to write Designer Columns. Investigations entail reading story snippets, waiting for a timer to run down, and sometimes donating a small amount of Gold or Pink Gems. All of these actions will reward you with Exclusive Intel points which you can exchange for rewards such as Designer's Reflections and **echoes** <sup>[1](#echo)</sup>, and Mysterious Clues which you can use to unlock more Designer Columns. Exclusive Intel cannot be transferred from one designer to another, but leftover Intel can be used to exchange for rewards from any Columns featuring the same designer.
+At the Designer Intel Hub, Nikki can perform Investigations on various designers to write Designer Columns. Investigations entail reading story snippets, waiting for a timer to run down, and sometimes donating a small amount of Gold or Pink Gems. All of these actions will reward you with Exclusive Intel points which you can exchange for rewards like Designer's Reflections, and Mysterious Clues which you can use to unlock more Designer Columns. Exclusive Intel cannot be transferred from one designer to another, but leftover Intel can be used to exchange for rewards from any Columns featuring the same designer.
 
 `add image of intel hub rewards`
 
