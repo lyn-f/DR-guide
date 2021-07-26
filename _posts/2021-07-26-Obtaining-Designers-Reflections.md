@@ -2,15 +2,15 @@
 
 To start using Designer's Reflections, you first need to learn where to collect them. Designer's Reflections are obtained in a variety of ways. In this section you will learn how to obtain Designer's Reflections from each of the following sources:
 
-* Main Story and Mind Maze
-* Workshop
-* Designer Intel Hub
+* [Main Story and Mind Maze](#mainstory)
+* [Workshop](#shop)
+* [Designer Intel Hub](#intel)
 * Sea of Fantasy
 * Diamond Arena
 * Pinnacle Battle
 * Events
 
-### Main Story and Mind Maze
+### <a name="mainstory">Main Story and Mind Maze</a>
 
 Your first Designer's Reflection, *Leonid - Twinkle Twinkle*, is obtained when you start stage 1-5 of the Main Story. Upon receiving it, you will be given a quick tutorial about equipping and using the Designer's Reflection during styling battles. You can only receive *Twinkle Twinkle* once through this method, but its **echo** <sup>[1](#echo)</sup> can be obtained through the Sea of Fantasy.
 
@@ -23,7 +23,7 @@ To access the Main Story from the home page, tap `Start Journey` at the bottom o
 > **Did you know?**  
 To access the Mind Maze and unlock additional Mind Maze stages, you need to progress in the Main Story.
 
-### Workshop
+### <a name="shop">Workshop</a>
 
 As you progress through the Main Story and Mind Maze, you will unlock clothing sets in the Workshop. Once you finish crafting every piece in a Workshop set, you can Invoke the set to receive its Designer's Reflection.
 
@@ -51,7 +51,7 @@ A Designer's Reflection may have additional requirements that need to be met bef
 5. Tap the `Invoke` button at the bottom of the page to receive the Designer's Reflection
 6. To Re-Invoke the Designer's Reflection, collect the required materials listed on the `Invoke` tab, then tap the `Re-Invoke` button
 
-### Designer Intel Hub
+### <a name="intel">Designer Intel Hub</a>
 
 At the Designer Intel Hub, Nikki can perform Investigations on various designers to write Designer Columns. Investigations entail reading story snippets, waiting for a timer to run down, and sometimes donating a small amount of Gold or Pink Gems. All of these actions will reward you with Exclusive Intel points, which you can exchange for rewards such as Designer's Reflections and **echoes** <sup>[1](#echo)</sup>, and Mysterious Clues, which you can use to unlock more Designer Columns. Keep in mind that Exclusive Intel cannot be transferred from one designer to another, but you can use your leftover Exclusive Intel on Designer Column rewards for the same designer.
 
