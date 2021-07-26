@@ -53,7 +53,7 @@ A Designer's Reflection may have additional requirements that need to be met bef
 
 ### <a name="intel">Designer Intel Hub</a>
 
-At the Designer Intel Hub, Nikki can perform Investigations on various designers to write Designer Columns. Investigations entail reading story snippets, waiting for a timer to run down, and sometimes donating a small amount of Gold or Pink Gems. All of these actions will reward you with Exclusive Intel points, which you can exchange for rewards such as Designer's Reflections and **echoes** <sup>[1](#echo)</sup>, and Mysterious Clues, which you can use to unlock more Designer Columns. Keep in mind that Exclusive Intel cannot be transferred from one designer to another, but you can use your leftover Exclusive Intel on Designer Column rewards for the same designer.
+At the Designer Intel Hub, Nikki can perform Investigations on various designers to write Designer Columns. Investigations entail reading story snippets, waiting for a timer to run down, and sometimes donating a small amount of Gold or Pink Gems. All of these actions will reward you with Exclusive Intel points which you can exchange for rewards such as Designer's Reflections and **echoes** <sup>[1](#echo)</sup>, and Mysterious Clues which you can use to unlock more Designer Columns. Exclusive Intel cannot be transferred from one designer to another, but leftover Intel can be used to exchange for rewards from any Columns featuring the same designer.
 
 `add image of intel hub rewards`
 
@@ -114,9 +114,43 @@ Summoning with 10 tickets at once will guarantee that you win at least one SSR i
 
 Gleaming Shards and Gleaming Stars are an additional currency that can be used to Summon in Sea of Fantasy: Gleam. Gleaming Shards and Gleaming Stars can be purchased with **Star Gems** <sup>[4](#stargem)</sup>. The drop rates when using Gleaming Shards or Gleaming Stars are no different than using Fantasy Tickets. They are just another currency you can use to play Sea of Fantasy: Gleam. Keep in mind that you are not guaranteed to get a Designer's Reflection on every Summon.
 
+`add image of play with gleaming shards/stars`
+
 ### <a name="arena">Diamond Arena</a>
 
-The Diamond Arena
+Stylists can compete against one another in the Diamond Arena for the chance to purchase Diamond Arena Exclusive clothing sets, including the set's Designer's Reflection. Unlike the Designer Intel Hub, you can exchange for these items in any order if you meet the requirements to purchase them.
+
+`add image diamond arena`
+
+To locate the Diamond Arena from the home page, tap `Start Journey`, then tap `Diamond Arena`. 
+
+To unlock the Designer's Reflection from the current exclusive set, you must finish the weekly competition in the appropriate Tier or higher. To see which Tier you need to finish in, tap `Shop` in the bottom right corner to be taken to the Arena Shop, then tap `Exchange` to see the Diamond Arena Exclusive Clothing set.
+
+`add image of DA shop designer's reflection requirements`
+
+In this example, the player must finish the week in the *Ruler of Future Reversed: 1-star* Tier or higher to purchase this Designer's Reflection.
+
+> **Did you know?**  
+Unlocking a Diamond Arena Exclusive item for purchase only needs to be done once per Season. Even if you finish at a lower Tier in subsequent weeks, you may still purchase the items you unlocked previously.
+
+On the Diamond Arena page, tap `Dress Up` to coordinate three outfits based on the Weekly Theme. Unlike the previous game in the *Nikki* series - *Love Nikki: Dress Up Queen* - you compete with other stylists based on the combined Styling Power of all three outfits combined, rather than competing based on popular vote. You can change any of your three outfits at any point during the week, as well as change which Designer's Reflections you want to use.
+
+Your combined Styling Power is also known as your Competence. You can see your current Competence and the Competence of your competitors listed beneath Tier Position. Your Competence updates in real time, so any upgrades to your Designer's Reflection will be reflected in your Competence.
+
+To challenge a stylist, tap on 1 of the 3 profile pictures at the bottom of the home page. Challenge stylists with a higher Tier Position than you to increase your own Tier Position. If you win, you will swap Tier Positions with the stylist you challenged; if you lose, your Tier Position will remain the same. You will receive the Diamond Arena currency *Flower of Odes* whether you win or lose, but you will earn a few more for winning. You can also tap the `Refresh` button to swap out the 3 stylists at the bottom of the page for 3 new ones.
+
+`add image challenge rank up`
+
+Remember: when other stylists challenge and defeat you, your Tier Position will decrease. You unlock Diamond Arena Exclusives based on the Tier you *finish* the week in, so keep an eye on your Tier Position throughout the week to make sure you don't dip below the required Tier. You have the entire Season to buy the Exclusive set pieces, so even if you can't reach the required Tier right away, you should still compete to collect Flowers of Odes and increase your Styling Power to eventually compete in the higher Tiers.
+
+##### How to Obtain Designer's Reflections from the Diamond Arena:
+
+1. Check the requirements to buy the Designer's Reflection in the Arena Shop
+2. From the Diamond Arena page, tap `Dress Up` and coordinate three outfits based on the Weekly Theme
+3. Return to the Diamond Arena page and tap on a player to challenge them and earn Flowers of Odes
+4. Increase your Tier by challenging players with a higher Tier Position than you
+5. Finish at or above the Tier required to unlock the Designer's Reflection for purchase
+6. Purchase the Designer's Reflection using Flowers of Odes
 
 ### <a name="pinnacle">Pinnacle Battle</a>
 
