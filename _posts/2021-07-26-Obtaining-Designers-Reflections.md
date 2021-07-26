@@ -12,7 +12,7 @@ To start using Designer's Reflections, you first need to learn where to collect 
 
 ### Main Story and Mind Maze
 
-Your first Designer's Reflection, *Leonid - Twinkle Twinkle*, is obtained when you start stage 1-5 of the Main Story. Upon receiving it, you will be given a quick tutorial about equipping and using the Designer's Reflection during styling battles. You can only receive *Twinkle Twinkle* once through this method, but its **echo** `glossary on echoes` can be obtained through the Sea of Fantasy.
+Your first Designer's Reflection, *Leonid - Twinkle Twinkle*, is obtained when you start stage 1-5 of the Main Story. Upon receiving it, you will be given a quick tutorial about equipping and using the Designer's Reflection during styling battles. You can only receive *Twinkle Twinkle* once through this method, but its **echo** <sup>[1](#echo)</sup> can be obtained through the Sea of Fantasy.
 
 While *Leonid - Twinkle Twinkle* is the only Designer's Reflection you can get simply by playing the Main Story, completing Main Story stages - as well as Mind Maze stages, which are unlocked as you progress through the Main Story - also unlocks Workshop sets which can be used to obtain more Designer's Reflections.
 
@@ -35,7 +35,7 @@ Crafting the set pieces requires both materials and Gold. Tapping the material w
 
 `add image of Set Crafting page and material Source tab`
 
-When you complete the set, tap on the `Invoke` tab. Once you have met all of the requirements, tap the `Invoke` button at the bottom to receive the Designer's Reflection. After Invoking the first time, you can Re-Invoke the set for **echoes** `glossary on echoes`. Re-Invoking a set requires materials and Gold; you do not need to craft the set a second time.
+When you complete the set, tap on the `Invoke` tab. Once you have met all of the requirements, tap the `Invoke` button at the bottom to receive the Designer's Reflection. After Invoking the first time, you can Re-Invoke the set for **echoes** <sup>[1](#echo)</sup>. Re-Invoking a set requires materials and Gold; you do not need to craft the set a second time.
 
 > **Did you know?**  
 A Designer's Reflection may have additional requirements that need to be met before you can Invoke it. You can find these requirements on the Invoke tab. Once you meet a requirement, you will see a check mark to the right.
@@ -53,7 +53,7 @@ A Designer's Reflection may have additional requirements that need to be met bef
 
 ### Designer Intel Hub
 
-At the Designer Intel Hub, Nikki can perform Investigations on various designers to write Designer Columns. Investigations entail reading story snippets, waiting for a timer to run down, and sometimes donating a small amount of Gold or Pink Gems. All of these actions will reward you with Exclusive Intel points, which you can exchange for rewards such as Designer's Reflections and **echoes** `glossary echoes`, and Mysterious Clues, which you can use to unlock more Designer Columns. Keep in mind that Exclusive Intel cannot be transferred from one designer to another, but you can use your leftover Exclusive Intel on Designer Column rewards for the same designer.
+At the Designer Intel Hub, Nikki can perform Investigations on various designers to write Designer Columns. Investigations entail reading story snippets, waiting for a timer to run down, and sometimes donating a small amount of Gold or Pink Gems. All of these actions will reward you with Exclusive Intel points, which you can exchange for rewards such as Designer's Reflections and **echoes** <sup>[1](#echo)</sup>, and Mysterious Clues, which you can use to unlock more Designer Columns. Keep in mind that Exclusive Intel cannot be transferred from one designer to another, but you can use your leftover Exclusive Intel on Designer Column rewards for the same designer.
 
 `add image of intel hub rewards`
 
@@ -73,7 +73,7 @@ Designer Columns can be unlocked by either progressing through the Main Story or
 `add images for Intel Hub`
 
 > **Did you know?**  
-Some of the Designer Column rewards may include sets whose clothing pieces or Designer's Reflections you have already obtained using other methods. If you are looking for **echoes** `glossary echoes` to upgrade your Designer's Reflections and you aren't sure where to obtain them, try looking for its clothing set in the Intel Hub. 
+Some of the Designer Column rewards may include sets whose clothing pieces or Designer's Reflections you have already obtained using other methods. If you are looking for **echoes** <sup>[1](#echo)</sup> to upgrade your Designer's Reflections and you aren't sure where to obtain them, try looking for its clothing set in the Intel Hub. 
 
 ##### How To Obtain Designer's Reflections From the Intel Hub:
 
@@ -85,7 +85,7 @@ Some of the Designer Column rewards may include sets whose clothing pieces or De
 
 ### Sea of Fantasy
 
-The Sea of Fantasy is a type of **gacha**`glossary gacha` game in *Shining Nikki.* You can Summon random items from the Sea of Fantasy using **Fantasy Tickets**, **Gleaming Shards** and **Gleaming Stars**.
+The Sea of Fantasy is a type of **gacha** <sup>[2](#gacha)</sup> game in *Shining Nikki.* You can Summon random items from the Sea of Fantasy using **Fantasy Tickets**, **Gleaming Shards** and **Gleaming Stars**.
 
 To find the Sea of Fantasy, tap `Gate of Heart` at the bottom of the home page. There are 2 versions of the Sea of Fantasy. *Sea of Fantasy: Gleam* features an increased drop rate for featured sets. These featured sets rotate weekly. The same items are available in the regular Sea of Fantasy, but the drop rates are a little bit different. You can cycle through the different gacha games in the Gate of Heart by tapping the arrows on the left and right of your screen.
 
@@ -121,3 +121,7 @@ The Diamond Arena
 ### Pinnacle Battle
 
 ### Events
+
+<a name="echo">1</a>. **echo**: An extra copy of a Designer's Reflection which may be used for Awakening, upgrading Call of Reflection, or Decomposition
+
+<a name="gacha">2</a>. **gacha**: A mechanic based on gachapon machines where prizes are awarded to the player based on rarity and chance
