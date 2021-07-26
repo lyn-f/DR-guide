@@ -1,5 +1,4 @@
-# Shining Nikki:  
-Designer's Reflection Guide
+# Shining Nikki: Designer's Reflection Guide
 
 Shining Nikki ©️ Papergames 2013-2021  
 *This guide is student work and was created for educational purposes only.*  
