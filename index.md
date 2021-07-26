@@ -18,4 +18,6 @@ New and experienced players may be surprised or even frustrated to learn that st
 
 Whether you are new to the *Nikki* series or a veteran Stylist exploring the game's newest feature, this guide will teach you how to obtain, upgrade, and use your Designer's Reflections to become an elite *Shining Nikki* Stylist.
 
-## TA
+## Table of contents
+
+`table of contents goes here`
