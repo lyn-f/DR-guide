@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Obtain"
-parent: guide
+parent: Home
 date: 2021-07-26
 author: lyn-f
 permalink: /get/
