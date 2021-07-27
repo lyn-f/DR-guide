@@ -51,7 +51,7 @@ A Designer's Reflection may have additional requirements that need to be met bef
 
 `add image of Invoke page and Re-Invoke`
 
-##### How To Invoke a Designer's Reflection:
+#### How To Invoke a Designer's Reflection:
 
 1. Unlock the set pieces by completing the required stages
 2. Go to the Workshop and tap on the set you wish you craft
@@ -84,7 +84,7 @@ Designer Columns can be unlocked by either progressing through the Main Story or
 > **Did you know?**  
 Some of the Designer Column rewards may include sets whose clothing pieces or Designer's Reflections you have already obtained using other methods. If you are looking for **echoes** <sup>[1](#echo)</sup> to upgrade your Designer's Reflections and you aren't sure where to obtain them, try looking for its clothing set in the Intel Hub. 
 
-##### How To Obtain Designer's Reflections From the Intel Hub:
+#### How To Obtain Designer's Reflections From the Intel Hub:
 
 1. Unlock Designer Columns by either progressing through the Main Story or using Mysterious Clues
 2. Tap on a Designer Column
@@ -113,13 +113,13 @@ The following table shows the drop rate of Designer's Reflections in the Gate of
 > **Did you know?**  
 Because there is randomness involved in gacha <sup>[2](#gacha)</sup> games, there is a chance that you will receive duplicate items. Duplicate Designer's Reflections will automatically be turned into **echoes** <sup>[1](#echo)</sup>. Duplicate clothes and echoes can be Decomposed for Gold and upgrade materials. See `upgrades section on decomposition` for more information.
 
-##### Fantasy Tickets
+#### Fantasy Tickets
 
 Fantasy Tickets can be obtained in a variety of ways, such as sign-in rewards, events, achievements, and more. Fantasy Tickets can also be purchased for Pink Gems, Guild Coins, Event Currency, or real money in the **Shop**<sup>[3](#shop)</sup>. You can quickly exchange Pink Gems for Fantasy Tickets by tapping `Summon` without any tickets in your inventory or `Summon x10` with less than 10 tickets in your inventory.
 
 Summoning with 10 tickets at once will guarantee that you win at least one SSR item. Because many Designer's Reflections are rarity SSR and above, you may increase your odds of getting a Designer's Reflection by spending 10 Fantasy Tickets at once by tapping `Summon x10`. Keep in mind that you are not guaranteed to get a Designer's Reflection on every Summon, even if you use Summon x10. 
 
-##### Gleaming Shards and Gleaming Stars
+#### Gleaming Shards and Gleaming Stars
 
 Gleaming Shards and Gleaming Stars are an additional currency that can be used to Summon in Sea of Fantasy: Gleam. Gleaming Shards and Gleaming Stars can be purchased with **Star Gems** <sup>[4](#stargem)</sup>. The drop rates when using Gleaming Shards or Gleaming Stars are no different than using Fantasy Tickets. They are just another currency you can use to play Sea of Fantasy: Gleam. Keep in mind that you are not guaranteed to get a Designer's Reflection on every Summon.
 
@@ -152,7 +152,7 @@ To challenge a stylist, tap on 1 of the 3 profile pictures at the bottom of the 
 
 Remember: when other stylists challenge and defeat you, your Tier Position will decrease. You unlock Diamond Arena Exclusives based on the Tier you *finish* the week in, so keep an eye on your Tier Position throughout the week to make sure you don't dip below the required Tier. You have the entire Season to buy the Exclusive set pieces, so even if you can't reach the required Tier right away, you should still compete to collect Flowers of Odes and increase your Styling Power to eventually compete in the higher Tiers.
 
-##### How to Obtain Designer's Reflections from the Diamond Arena:
+#### How to Obtain Designer's Reflections from the Diamond Arena:
 
 1. Check the requirements to buy the Designer's Reflection in the Arena Shop
 2. From the Diamond Arena page, tap `Dress Up` and coordinate three outfits based on the Weekly Theme
