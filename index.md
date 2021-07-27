@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Home
+title: Index
 date: 2021-07-26
 author: lyn-f
-nav_order: 1
 ---
 
 # Shining Nikki: Designer's Reflection Guide
