@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Obtaining Designer's Reflections"
+date: 2021-07-26
+author: lyn-f
+---
+
 ## Obtaining Designer's Reflections
 
 To start using Designer's Reflections, you first need to learn where to collect them. Designer's Reflections are obtained in a variety of ways. In this section you will learn how to obtain Designer's Reflections from each of the following sources:
