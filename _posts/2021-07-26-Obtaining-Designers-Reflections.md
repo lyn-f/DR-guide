@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Obtain"
+layout: post
+title: Obtain
 parent: Home
 date: 2021-07-26
 author: lyn-f
