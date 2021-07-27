@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Obtaining-DRs"
+layout: default
+title: "Obtain"
 date: 2021-07-26
 author: lyn-f
 permalink: /get/
