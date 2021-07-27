@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Obtaining Designer's Reflections"
+title: "Obtaining-DRs"
 date: 2021-07-26
 author: lyn-f
 ---
