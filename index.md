@@ -7,7 +7,7 @@ Last updated 7/26/2021
 
 ## Introduction
 
-*Shining Nikki* is the fourth game in Paper Games' *Nikki* series of mobile games. The story is set in *Miraland*, a fantasy world where beauty is power. All of the most influential figures in Miraland are fashion designers, and the player must increase Nikki's Styling Power to progress through the game's story and other challenges.
+*Shining Nikki* is the fourth game in Papergames' *Nikki* series of mobile games. The story is set in *Miraland*, a fantasy world where beauty is power. All of the most influential figures in Miraland are fashion designers, and the player must increase Nikki's Styling Power to progress through the game's story and other challenges.
 
 New and experienced players may be surprised or even frustrated to learn that styling in *Shining Nikki* is not always as easy as putting on the most powerful clothing items that fit the prompt! Nikki must also summon Styling Power from Miraland's best designers to become powerful enough to save Miraland.
 
