@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Home
-has_children: true
 date: 2021-07-26
 author: lyn-f
 nav_order: 1
