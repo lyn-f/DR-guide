@@ -3,6 +3,7 @@ layout: post
 title: "Obtaining-DRs"
 date: 2021-07-26
 author: lyn-f
+permalink: /get/
 ---
 
 ## Obtaining Designer's Reflections
