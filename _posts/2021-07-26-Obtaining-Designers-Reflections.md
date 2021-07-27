@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Obtain
+title: Obtaining Designer's Reflections
 date: 2021-07-26
 author: lyn-f
 permalink: /get/
