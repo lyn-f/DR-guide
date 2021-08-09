@@ -27,9 +27,9 @@ Your first Designer's Reflection, *Leonid - Twinkle Twinkle*, is obtained when y
 
 To access the Main Story from the home page, tap `Start Journey` at the bottom of the page, then tap `Main Story` or `Mind Maze`.
 
-<img src="https://lyn-f.github.io/DR-guide/StartJourney.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/StartJourney.jpg" width=300>
 
-<img src="https://lyn-f.github.io/DR-guide/MainStoryMazeNav.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/MainStoryMazeNav.jpg" width=300>
 
 > **Did you know?**  
 To access the Mind Maze and unlock additional Mind Maze stages, you need to progress in the Main Story.
@@ -40,15 +40,15 @@ As you progress through the Main Story and Mind Maze, you will unlock clothing s
 
 To access the Workshop from the home page, tap `Design Center` in the bottom left corner, then tap `Workshop`. You can also access the Workshop from the Main Story or Mind Maze by tapping the set's name in the bottom left corner.
 
-<img src="https://lyn-f.github.io/DR-guide/DesignCenterNav.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/DesignCenterNav.jpg" width=300>
 
-<img src="https://lyn-f.github.io/DR-guide/DesignCenterWorkshop.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/DesignCenterWorkshop.jpg" width=300>
 
 Crafting the Workshop set pieces requires both materials and Gold. Tap any material to learn its source(s). 
 
-<img src="https://lyn-f.github.io/DR-guide/WorkshopCrafting.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/WorkshopCrafting.jpg" width=300>
 
-<img src="https://lyn-f.github.io/DR-guide/WorkshopSource.jpg" width=300></img>  
+<img src="https://lyn-f.github.io/DR-guide/WorkshopSource.jpg" width=300>  
 <sup>Tap a material to learn its source. A material may have multiple sources. You can use the `Go` button as a shortcut to the item's source</sup>
 
 When you complete the set, tap on the `Invoke` tab. You can tap the `Invoke` button at the bottom to receive the Designer's Reflection after meeting any additional requirements. After Invoking the first time, you can Re-Invoke the set for echoes <sup>[1](#echo)</sup>, which you will need later for upgrading. Re-Invoking a set requires materials and Gold; you do not need to craft the set a second time.
@@ -70,15 +70,15 @@ A Designer's Reflection may have additional requirements that need to be met bef
 
 At the Designer Intel Hub, Nikki can perform Investigations on various designers to write Designer Columns. During an investigation, you will read story snippets, wait for a period of time, and sometimes donate a small amount of Gold or Pink Gems. All of these actions will reward you with *Exclusive Intel* points which you can use to buy rewards like Designer's Reflections, and *Mysterious Clues* which you can use to unlock more Designer Columns. Exclusive Intel cannot be transferred from one designer to another, but leftover Intel can be used to exchange for rewards from any Columns featuring the same designer.
 
-<img src="https://lyn-f.github.io/DR-guide/IntelHubPage.jpg" width=300></img> 
+<img src="https://lyn-f.github.io/DR-guide/IntelHubPage.jpg" width=300>
 
 <sup>Example of a Designer Column. Your Exclusive Intel points for the column's designer can be seen here</sup>
 
 To access the Intel Hub, you will first need to complete the Main Story stage 2-3. Then, from the home page, tap `Design Center` in the bottom left corner, then tap `Designer Intel Hub`. 
 
-<img src="https://lyn-f.github.io/DR-guide/DesignCenterNav.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/DesignCenterNav.jpg" width=300>
 
-<img src="https://lyn-f.github.io/DR-guide/DesignCenterIntelHub.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/DesignCenterIntelHub.jpg" width=300>
 
 To perform an Investigation, tap on one of the Designer Columns, then tap `Start Investigation`. Alternatively, you can tap `Auto-Investigate`, which will perform all of the investigation actions automatically for you while you do other things in the game. You also have the option to skip the wait time for Investigations at the cost of Pink Gems. Once you have earned enough Exclusive Intel, tap the reward you want to exchange your Intel for. You will then read a short snippet of story and select a dialog option. You will receive the same reward no matter which dialog option you select.
 
@@ -109,7 +109,7 @@ The Sea of Fantasy is a type of **gacha** <sup>[2](#gacha)</sup> game in *Shinin
 
 To find the Sea of Fantasy, tap `Gate of Heart` at the bottom of the home page. 
 
-<img src="https://lyn-f.github.io/DR-guide/GateNav.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/GateNav.jpg" width=300>
 
 There are 2 versions of the Sea of Fantasy. *Sea of Fantasy: Gleam* features an increased drop rate for featured sets. These featured sets change weekly. The same items are available in the regular Sea of Fantasy, but the drop rates are a little bit different. You can cycle through the different gacha <sup>[2](#gacha)</sup> games in the Gate of Heart by tapping the arrows on the left and right of your screen.
 
@@ -123,7 +123,7 @@ The following table shows the drop rate of Designer's Reflections in the Gate of
 | Sea of Fantasy: Gleam | Available | 5.58% for featured sets; 0.62% for other sets | 2.7% for featured sets; 0.3% for other sets | 0.5% | Featured sets rotate weekly |
 | Sea of Mystery | Unavailable | | | | Only clothing can be won in Sea of Mystery |
 
-<img src="https://lyn-f.github.io/DR-guide/GleamRewards.jpg" width=300></img>  
+<img src="https://lyn-f.github.io/DR-guide/GleamRewards.jpg" width=300>  
 <sup>Tap `All Items` for a complete list of available items and drop rates</sup>
 
 > **Did you know?**  
@@ -139,7 +139,7 @@ Summoning with 10 tickets at once will guarantee that you win at least one SSR i
 
 Gleaming Shards and Gleaming Stars are an additional currency that can be used to Summon in Sea of Fantasy: Gleam. Gleaming Shards and Gleaming Stars can be purchased with **Star Gems** <sup>[4](#stargem)</sup>. The drop rates when using Gleaming Shards or Gleaming Stars are no different than using Fantasy Tickets. They are just another currency you can use to play Sea of Fantasy: Gleam.
 
-<img src="https://lyn-f.github.io/DR-guide/GleamHome.jpg" width=300></img>  
+<img src="https://lyn-f.github.io/DR-guide/GleamHome.jpg" width=300>  
 <sup>Example of Sea of Fantasy: Gleam. The featured sets rotate weekly, so your view may be different. You can Summon using Star Gems by tapping the Exclusive Summon button.</sup>
 
 #### How To Summon Designer's Reflections from the Sea of Fantasy:
@@ -155,9 +155,9 @@ Stylists can compete against one another in the Diamond Arena for the chance to 
 
 To locate the Diamond Arena from the home page, tap `Start Journey`, then tap `Diamond Arena`. 
 
-<img src="https://lyn-f.github.io/DR-guide/StartJourney.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/StartJourney.jpg" width=300>
 
-<img src="https://lyn-f.github.io/DR-guide/ArenaNav.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/ArenaNav.jpg" width=300>
 
 To unlock the Designer's Reflection from the current exclusive set, you must finish the weekly competition in the appropriate Tier or higher. To see which Tier you need to finish in, tap `Shop` in the bottom right corner to be taken to the Arena Shop, then tap `Exchange` to see the Diamond Arena Exclusive Clothing set.
 
@@ -171,7 +171,7 @@ On the Diamond Arena page, tap `Dress Up` to coordinate three outfits based on t
 
 You can see your current Competence and the Competence of your competitors listed beneath Tier Position. Your Competence updates in real time, so any upgrades you make to your Styling Power - such as changing any of your three outfits or upgrading your Designer's Reflections - will be updated automatically in your Competence score.
 
-<img src="https://lyn-f.github.io/DR-guide/ArenaCompetenceTier.jpg" width=300></img>  
+<img src="https://lyn-f.github.io/DR-guide/ArenaCompetenceTier.jpg" width=300>  
 <sup>Your Competence score is calculated based on the Styling Power of your three outfits</sup>
 
 To challenge a stylist, tap on any of the 3 profile pictures at the bottom of the home page. Challenge stylists with a higher Tier Position than you to increase your own Tier Position. If you challenge a stylist and win, you will swap Tier Positions with the stylist you challenged; if you challenge a stylist and lose, your Tier Position will remain the same. You will receive the Diamond Arena currency *Flower of Odes* whether you win or lose. You can also tap the `Refresh` button to swap out the 3 stylists at the bottom of the page for 3 new ones.
@@ -196,19 +196,19 @@ Team up with other stylists to defeat a powerful opponent in Pinnacle Battles. E
 
 To access Pinnacle Battles from the home page, tap on `Start Journey`, switch to the `Team` tab, then tap `Pinnacle Battles`.
 
-<img src="https://lyn-f.github.io/DR-guide/StartJourney.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/StartJourney.jpg" width=300>
 
-<img src="https://lyn-f.github.io/DR-guide/PBTeamNav.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/PBTeamNav.jpg" width=300>
 
 Tap `Challenge`, then tap `Dress Up` and select your outfit. Select a difficulty  using the numbers in the center of the page and tap `Team Up`. You can invite friends or guildmates to team up with you, or you can tap `Ready` and to begin matchmaking.
 
-<img src="https://lyn-f.github.io/DR-guide/PinnacleBattleTeamUp.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/PinnacleBattleTeamUp.jpg" width=300>
 
 Once you have completed the set and collected enough Shards for the Designer's Reflection, tap `Rewards`, then tap the `Exchange` button next to the Designer's Reflection.
 
-<img src="https://lyn-f.github.io/DR-guide/PinnacleBattleRewardsNAv.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/PinnacleBattleRewardsNAv.jpg" width=300>
 
-<img src="https://lyn-f.github.io/DR-guide/PinnacleBattleRewardsPage.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/PinnacleBattleRewardsPage.jpg" width=300>
 
 #### How to Collect Designer's Reflections from Pinnacle Battles:
 
@@ -223,13 +223,13 @@ Pinnacle Battles are available during specific hours. Tap the exclamation point 
 
 There is almost always some kind of special event going on in *Shining Nikki*. All current events will be shown to you when you start up the game. You can also use the `Events` button or `Notices` button on the home page to view the current events. 
 
-<img src="https://lyn-f.github.io/DR-guide/EventInfoNav.jpg" width=300></img>
+<img src="https://lyn-f.github.io/DR-guide/EventInfoNav.jpg" width=300>
 
 Events may have you completing daily activities, clearing special event stages, or playing a special event gacha <sup>[2](#gacha)</sup> to earn rewards. Check each event's rewards to see if a Designer's Reflection is available and what you need to do to earn it. Event items are available for a limited time, so be sure to participate before you run out of time.
 
 If you are not sure how to earn the event items, the News tab in Notices usually has the most complete information. From the home page, tap `Notices`, then tap the `News` tab. Tap on the name of an event to read more about it.
 
-<img src="https://lyn-f.github.io/DR-guide/EventExample.jpg" width=300></img>  
+<img src="https://lyn-f.github.io/DR-guide/EventExample.jpg" width=300>  
 <sup>Example of an event. In this example, you can collect a Designer's Reflection just by logging in during the event.</sup>
 
 --------
