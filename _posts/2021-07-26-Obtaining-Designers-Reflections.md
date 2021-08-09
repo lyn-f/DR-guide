@@ -161,7 +161,7 @@ To locate the Diamond Arena from the home page, tap `Start Journey`, then tap `D
 
 To unlock the Designer's Reflection from the current exclusive set, you must finish the weekly competition in the appropriate Tier or higher. To see which Tier you need to finish in, tap `Shop` in the bottom right corner to be taken to the Arena Shop, then tap `Exchange` to see the Diamond Arena Exclusive Clothing set.
 
-<img src="https://lyn-f.github.io/DR-guide/ArenaShop.jpg" width=300></img>  
+<img src="https://lyn-f.github.io/DR-guide/ArenaShop.jpg" width=300>   
 <sup>Example of a Designer's Reflection in the Arena shop. In this example, you must finish the week in the *Ruler of Future Reversed: 1-star* Tier or higher to unlock *Mercury - Elves Elegy* for purchase. Once unlocked, you will need 1500 Flowers of Odes to purchase it</sup>
 
 > **Did you know?**  
@@ -176,7 +176,7 @@ You can see your current Competence and the Competence of your competitors liste
 
 To challenge a stylist, tap on any of the 3 profile pictures at the bottom of the home page. Challenge stylists with a higher Tier Position than you to increase your own Tier Position. If you challenge a stylist and win, you will swap Tier Positions with the stylist you challenged; if you challenge a stylist and lose, your Tier Position will remain the same. You will receive the Diamond Arena currency *Flower of Odes* whether you win or lose. You can also tap the `Refresh` button to swap out the 3 stylists at the bottom of the page for 3 new ones.
 
-<img src="https://lyn-f.github.io/DR-guide/ArenaOpponents.jpg" width=300></img>  
+<img src="https://lyn-f.github.io/DR-guide/ArenaOpponents.jpg" width=300>  
 <sup>Example of Diamond Arena opponents. Increase your rank by defeating stylists with a higher Tier Position</sup>
 
 When other stylists challenge and defeat you, your Tier Position will decrease. Remember: you unlock Diamond Arena Exclusives based on the Tier you *finish* the week in, so keep an eye on your Tier Position throughout the week to make sure you don't dip below the required Tier. You have the entire season to buy the Exclusive set pieces, so even if you can't reach the required Tier right away, you should still compete to collect Flowers of Odes and increase your Styling Power to eventually compete in the higher Tiers.
