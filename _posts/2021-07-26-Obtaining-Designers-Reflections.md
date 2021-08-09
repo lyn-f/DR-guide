@@ -76,7 +76,7 @@ To access the Intel Hub, you will first need to complete the Main Story stage 2-
 
 <img src="https://lyn-f.github.io/DR-guide/DesignCenterIntelHub.jpg" width=300>
 
-To perform an Investigation, tap on one of the Designer Columns, then tap `Start Investigation`. Alternatively, you can tap `Auto-Investigate`, which will perform all of the investigation actions automatically for you while you do other things in the game. You also have the option to skip the wait time for Investigations at the cost of Pink Gems. Once you have earned enough Exclusive Intel, tap the reward you want to exchange your Intel for. You will then read a short snippet of story and select a dialog option. You will receive the same reward no matter which dialog option you select.
+To perform an Investigation, tap on one of the Designer Columns, then tap `Start Investigation`. Alternatively, you can tap `Auto-Investigate`, which will perform all of the investigation actions automatically for you while you do other things in the game. You also have the option to skip the wait time for Investigations at the cost of Pink Gems. Once you have earned enough Exclusive Intel, tap the reward you want to exchange your Intel for. You will then read a short snippet of story and select a dialog option. You will receive reward that you selected no matter which dialog option you choose.
 
 <img src="https://lyn-f.github.io/DR-guide/IntelHubPage.jpg" width=300>  
 <sup>Example of a Designer Column. Your Exclusive Intel points for the column's designer can be found around the middle of the page</sup>
@@ -84,12 +84,9 @@ To perform an Investigation, tap on one of the Designer Columns, then tap `Start
 > **Did you know?**  
 Intel Hub rewards must be unlocked in order. In some cases, you may need to exchange for several rewards before you can get the Designer's Reflection.
 
-Designer Columns can be unlocked by either progressing through the Main Story or using Mysterious Clues. Many of the Designer Column rewards include Designer's Reflections, but not all of them do. Be sure to check the rewards before unlocking a Designer Column with Mysterious Clues.
+Designer Columns can be unlocked by either progressing through the Main Story or using Mysterious Clues. Some of the Designer Column rewards may include sets whose clothing pieces or Designer's Reflections you have already obtained using other methods. If you are looking for echoes <sup>[1](#echo)</sup> to upgrade your Designer's Reflections and you aren't sure where to obtain them, try looking for its clothing set in the Intel Hub.
 
-`add images for Intel Hub`
-
-> **Did you know?**  
-Some of the Designer Column rewards may include sets whose clothing pieces or Designer's Reflections you have already obtained using other methods. If you are looking for echoes <sup>[1](#echo)</sup> to upgrade your Designer's Reflections and you aren't sure where to obtain them, try looking for its clothing set in the Intel Hub. 
+`add images for Intel Hub exchange mysterious clues`
 
 #### How To Obtain Designer's Reflections From the Intel Hub:
 
