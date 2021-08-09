@@ -172,9 +172,24 @@ When other stylists challenge and defeat you, your Tier Position will decrease. 
 5. Finish at or above the Tier required to unlock the Designer's Reflection for purchase
 6. Purchase the Designer's Reflection using Flowers of Odes
 
-### <a name="pinnacle">Pinnacle Battle</a>
+### <a name="pinnacle">Pinnacle Battles</a>
 
-Pinnacle Battles are team styling battles against a powerful foe. 
+Team up with other stylists to defeat a powerful opponent in Pinnacle Battles. Each time your team defeats the opponent, you will earn Shards of the opponent's Designer's Reflection, as well as Shards of its clothing set. You must buy every item in the set with Shards before you can unlock the Designer's Reflection.
+
+To access Pinnacle Battles from the home page, tap on `Start Journey`, switch to the `Team` tab, then tap `Pinnacle Battles`.
+
+Tap `Dress Up` and select your outfit. Then, select a difficulty and tap `Team Up`. You can invite friends or guildmates to team up with you, or you can tap `Ready` and to begin matchmaking.
+
+Once you have completed the set and collected enough Shards for the Designer's Reflection, tap `Rewards`, then tap the `Exchange` button next to the Designer's Reflection.
+
+`add image Pinnacle Battles`
+
+#### How to Collect Designer's Reflections from Pinnacle Battles:
+
+1. Team up with other stylists and compete against the opponent in a Styling Battle to collect Shards
+2. Exchange your shards for every item in the clothing set
+3. After you've completed the clothing set, exchange shards for the Designer's Reflection
+
 
 ### <a name="event">Events</a>
 
