@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Collecting Designer's Reflections
 
-To start using Designer's Reflections, you first need to learn where to collect them. You can collect Designer's Reflections from each of the following sources:
+You can collect Designer's Reflections from each of the following sources:
 
 * [Main Story and Mind Maze](#mainstory)
 * [Workshop](#wshop)
@@ -21,7 +21,7 @@ To start using Designer's Reflections, you first need to learn where to collect 
 
 ### <a name="mainstory">Main Story and Mind Maze</a>
 
-Your first Designer's Reflection, *Leonid - Twinkle Twinkle*, is obtained when you start stage 1-5 of the Main Story. You will be given a quick tutorial about equipping and using the Designer's Reflection during styling battles upon receiving it. You can only receive *Twinkle Twinkle* once through this method, but its **echo** <sup>[1](#echo)</sup> can be obtained through the Sea of Fantasy.
+Your first Designer's Reflection, *Leonid - Twinkle Twinkle*, is obtained when you start stage 1-5 of the Main Story. You can only receive *Twinkle Twinkle* once through this method, but its **echo** <sup>[1](#echo)</sup> can be obtained through the Sea of Fantasy.
 
 *Leonid - Twinkle Twinkle* is the only Designer's Reflection you can get simply by playing the Main Story. However, you should complete Main Story and Mind Maze stages to unlock sets in the Workshop, which can be used to obtain more Designer's Reflections.
 
@@ -98,13 +98,13 @@ The Sea of Fantasy is a type of **gacha** <sup>[2](#gacha)</sup> game in *Shinin
 
 To find the Sea of Fantasy, tap `Gate of Heart` at the bottom of the home page. 
 
-There are 2 versions of the Sea of Fantasy. *Sea of Fantasy: Gleam* features an increased drop rate for featured sets. These featured sets change weekly. The same items are available in the regular Sea of Fantasy, but the drop rates are a little bit different. You can cycle through the different gacha games in the Gate of Heart by tapping the arrows on the left and right of your screen.
+There are 2 versions of the Sea of Fantasy. *Sea of Fantasy: Gleam* features an increased drop rate for featured sets. These featured sets change weekly. The same items are available in the regular Sea of Fantasy, but the drop rates are a little bit different. You can cycle through the different gacha <sup>[2](#gacha)</sup> games in the Gate of Heart by tapping the arrows on the left and right of your screen.
 
 There is a third gacha <sup>[2](#gacha)</sup> game in the Gate of Heart called the *Sea of Mystery*. There are currently no Designer's Reflections available to win in the Sea of Mystery.
 
 `add images Gate of Heart`
 
-The following table shows the drop rate of Designer's Reflections in the Gate of Heart by rarity. For a complete list of available items drop rates for each gacha game in the Gate of Heart, tap `All Items` in the upper right corner of your screen.
+The following table shows the drop rate of Designer's Reflections in the Gate of Heart by rarity. For a complete list of available items drop rates for each game in the Gate of Heart, tap `All Items` in the upper right corner of your screen.
 
 | Gacha Name | Designer's Reflections Available | SR Drop Rate | SSR Drop Rate | UR Drop Rate | Notes |
 | --- | --- | :---: | :---: | :---: | --- |
@@ -123,7 +123,7 @@ Summoning with 10 tickets at once will guarantee that you win at least one SSR i
 
 #### Gleaming Shards and Gleaming Stars
 
-Gleaming Shards and Gleaming Stars are an additional currency that can be used to Summon in Sea of Fantasy: Gleam. Gleaming Shards and Gleaming Stars can be purchased with **Star Gems** <sup>[4](#stargem)</sup>. The drop rates when using Gleaming Shards or Gleaming Stars are no different than using Fantasy Tickets. They are just another currency you can use to play Sea of Fantasy: Gleam. Keep in mind that you are not guaranteed to get a Designer's Reflection on every Summon.
+Gleaming Shards and Gleaming Stars are an additional currency that can be used to Summon in Sea of Fantasy: Gleam. Gleaming Shards and Gleaming Stars can be purchased with **Star Gems** <sup>[4](#stargem)</sup>. The drop rates when using Gleaming Shards or Gleaming Stars are no different than using Fantasy Tickets. They are just another currency you can use to play Sea of Fantasy: Gleam.
 
 `add image of play with gleaming shards/stars`
 
@@ -132,11 +132,11 @@ Gleaming Shards and Gleaming Stars are an additional currency that can be used t
 1. Collect Fantasy Tickets and/or Star Gems
 2. Tap `Gate of Heart`
 3. Tap the arrows on the left and right of your screen to navigate to Sea of Fantasy or Sea of Fantasy: Gleam
-4. Tap `Summon` or `Summon x10` to use Fantasy Tickets, or Tap `Exclusive Summon` or `Exclusive Summon x10` to use Star Gems
+4. Tap `Summon` or `Summon x10` to use Fantasy Tickets, or Tap `Exclusive Summon` to use Star Gems
 
 ### <a name="arena">Diamond Arena</a>
 
-Stylists can compete against one another in the Diamond Arena for the chance to purchase Diamond Arena Exclusive clothing sets, including the set's Designer's Reflection. Unlike the Designer Intel Hub, you can exchange for these items in any order if you meet the requirements to purchase them.
+Stylists can compete against one another in the Diamond Arena for the chance to purchase Diamond Arena Exclusive clothing sets, including the set's Designer's Reflection. Unlike the Designer Intel Hub, you can exchange for these items in any order once you've met the requirements to purchase them.
 
 To locate the Diamond Arena from the home page, tap `Start Journey`, then tap `Diamond Arena`. 
 
@@ -151,17 +151,17 @@ In this example, the player must finish the week in the *Ruler of Future Reverse
 > **Did you know?**  
 Unlocking a Diamond Arena Exclusive item for purchase only needs to be done once per Season. Even if you finish at a lower Tier in subsequent weeks, you may still purchase the items you unlocked previously.
 
-On the Diamond Arena page, tap `Dress Up` to coordinate three outfits based on the Weekly Theme. You compete with other stylists based on the combined Styling Power of all three outfits combined. Your combined Styling Power is also known as your *Competence*. 
+On the Diamond Arena page, tap `Dress Up` to coordinate three outfits based on the Weekly Theme. You compete with other stylists based on the Styling Power of all three outfits combined. Your combined Styling Power is also known as your *Competence*. 
 
 You can see your current Competence and the Competence of your competitors listed beneath Tier Position. Your Competence updates in real time, so any upgrades you make to your Styling Power - such as changing any of your three outfits or upgrading your Designer's Reflections - will be updated automatically in your Competence score.
 
 `add image competence`
 
-To challenge a stylist, tap on any of the 3 profile pictures at the bottom of the home page. Challenge stylists with a higher Tier Position than you to increase your own Tier Position. If you win, you will swap Tier Positions with the stylist you challenged; if you lose, your Tier Position will remain the same. You will receive the Diamond Arena currency *Flower of Odes* whether you win or lose, but you will earn a few more for winning. You can also tap the `Refresh` button to swap out the 3 stylists at the bottom of the page for 3 new ones.
+To challenge a stylist, tap on any of the 3 profile pictures at the bottom of the home page. Challenge stylists with a higher Tier Position than you to increase your own Tier Position. If you challenge a stylist and win, you will swap Tier Positions with the stylist you challenged; if you challenge a stylist and lose, your Tier Position will remain the same. You will receive the Diamond Arena currency *Flower of Odes* whether you win or lose. You can also tap the `Refresh` button to swap out the 3 stylists at the bottom of the page for 3 new ones.
 
 `add image challenge rank up`
 
-When other stylists challenge and defeat you, your Tier Position will decrease. Remember: you unlock Diamond Arena Exclusives based on the Tier you *finish* the week in, so keep an eye on your Tier Position throughout the week to make sure you don't dip below the required Tier. You have the entire Season to buy the Exclusive set pieces, so even if you can't reach the required Tier right away, you should still compete to collect Flowers of Odes and increase your Styling Power to eventually compete in the higher Tiers.
+When other stylists challenge and defeat you, your Tier Position will decrease. Remember: you unlock Diamond Arena Exclusives based on the Tier you *finish* the week in, so keep an eye on your Tier Position throughout the week to make sure you don't dip below the required Tier. You have the entire season to buy the Exclusive set pieces, so even if you can't reach the required Tier right away, you should still compete to collect Flowers of Odes and increase your Styling Power to eventually compete in the higher Tiers.
 
 #### How to Collect Designer's Reflections from the Diamond Arena:
 
@@ -173,6 +173,8 @@ When other stylists challenge and defeat you, your Tier Position will decrease. 
 6. Purchase the Designer's Reflection using Flowers of Odes
 
 ### <a name="pinnacle">Pinnacle Battle</a>
+
+Pinnacle Battles are team styling battles against a powerful foe. 
 
 ### <a name="event">Events</a>
 
