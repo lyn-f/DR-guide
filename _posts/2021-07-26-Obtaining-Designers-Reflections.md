@@ -23,7 +23,7 @@ You can collect Designer's Reflections from each of the following sources:
 
 Your first Designer's Reflection, *Leonid - Twinkle Twinkle*, is obtained when you start stage 1-5 of the Main Story. You can only receive *Twinkle Twinkle* once through this method, but its **echo** <sup>[1](#echo)</sup> can be obtained through the Sea of Fantasy.
 
-*Leonid - Twinkle Twinkle* is the only Designer's Reflection you can get simply by playing the Main Story. However, you should complete Main Story and Mind Maze stages to unlock sets in the Workshop, which can be used to obtain more Designer's Reflections.
+*Leonid - Twinkle Twinkle* is the only Designer's Reflection you can get simply by playing the Main Story. However, you should complete Main Story and Mind Maze stages to unlock sets in the Workshop, which can be used to collect more Designer's Reflections.
 
 To access the Main Story from the home page, tap `Start Journey` at the bottom of the page, then tap `Main Story` or `Mind Maze`.
 
@@ -36,7 +36,7 @@ To access the Mind Maze and unlock additional Mind Maze stages, you need to prog
 
 ### <a name="wshop">Workshop</a>
 
-As you progress through the Main Story and Mind Maze, you will unlock clothing sets in the Workshop. You can collect the set's Designer's Reflection by Invoking it after crafting all the pieces.
+As you progress through the Main Story and Mind Maze, you will unlock clothing sets in the Workshop. You can collect the set's Designer's Reflection by Invoking it after crafting all of the pieces.
 
 To access the Workshop from the home page, tap `Design Center` in the bottom left corner, then tap `Workshop`. You can also access the Workshop from the Main Story or Mind Maze by tapping the set's name in the bottom left corner.
 
@@ -51,7 +51,7 @@ Crafting the Workshop set pieces requires both materials and Gold. Tap any mater
 <img src="https://lyn-f.github.io/DR-guide/WorkshopSource.jpg" width=300>  
 <sup>Tap a material to learn its source. A material may have multiple sources. You can use the `Go` button as a shortcut to the item's source</sup>
 
-When you complete the set, tap on the `Invoke` tab. You can tap the `Invoke` button at the bottom to receive the Designer's Reflection after meeting any additional requirements. After Invoking the first time, you can Re-Invoke the set for echoes <sup>[1](#echo)</sup>, which you will need later for upgrading. Re-Invoking a set requires materials and Gold; you do not need to craft the set a second time.
+When you complete the set, tap on the `Invoke` tab. You can tap the `Invoke` button at the bottom of the page to receive the Designer's Reflection after meeting any additional requirements. After Invoking the first time, you can Re-Invoke the set for echoes <sup>[1](#echo)</sup>, which you will need later for upgrading. Re-Invoking a set requires materials and Gold; you do not need to craft the set a second time.
 
 > **Did you know?**  
 A Designer's Reflection may have additional requirements that need to be met before you can Invoke it. You can find these requirements on the Invoke tab. Once you meet a requirement, you will see a check mark to the right.
@@ -121,7 +121,7 @@ The following table shows the drop rate of Designer's Reflections in the Gate of
 <sup>Tap `All Items` for a complete list of available items and drop rates</sup>
 
 > **Did you know?**  
-Because there is randomness involved in gacha <sup>[2](#gacha)</sup> games, there is a chance that you will receive duplicate items. Duplicate Designer's Reflections will automatically be turned into echoes <sup>[1](#echo)</sup>. Duplicate clothes and echoes can be Decomposed for Gold and upgrade materials. See `upgrades section on decomposition` for more information.
+Because there is randomness involved in gacha <sup>[2](#gacha)</sup> games, there is a chance that you will receive duplicate items. Duplicate Designer's Reflections will automatically be turned into echoes <sup>[1](#echo)</sup>. Duplicate clothes and echoes can be Decomposed for Gold and upgrade materials. 
 
 #### Fantasy Tickets
 
@@ -227,6 +227,8 @@ If you are not sure how to earn the event items, the News tab in Notices usually
 <sup>Example of an event. In this example, you can collect a Designer's Reflection just by logging in during the event.</sup>
 
 --------
+
+### Glossary
 
 <a name="echo"><sup>1</sup></a> **echo**:  
 ###### An extra copy of a Designer's Reflection which may be used for Awakening, upgrading Call of Reflection, or Decomposition
