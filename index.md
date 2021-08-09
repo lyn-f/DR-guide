@@ -25,4 +25,29 @@ Whether you are new to the *Nikki* series or a veteran Stylist exploring the gam
 
 **Note: This guide is a work-in-progress.**
 
-[How to Collect Designer's Reflections](https://lyn-f.github.io/DR-guide/get/)
+[Collecting Designer's Reflections](https://lyn-f.github.io/DR-guide/get/)  
+* Main Story and Mind Maze
+* Workshop
+* Designer Intel Hub
+* Sea of Fantasy
+* Diamond Arena
+* Pinnacle Battles
+* Events  
+
+Viewing Your Designer's Reflection Collection
+* The Index
+* The Ark  
+
+Upgrading Designer's Reflections  
+* Upgrade
+* Rank Up
+* Passive Effect
+* Call of Reflection
+* Awaken
+* Concepts  
+
+Using Designer's Reflections  
+* Styling Battles
+* Formations
+* Clothing
+* Story
