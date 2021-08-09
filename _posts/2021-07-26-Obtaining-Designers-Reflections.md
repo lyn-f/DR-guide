@@ -63,15 +63,16 @@ A Designer's Reflection may have additional requirements that need to be met bef
 
 At the Designer Intel Hub, Nikki can perform Investigations on various designers to write Designer Columns. During an investigation, you will read story snippets, wait for a period of time, and sometimes donate a small amount of Gold or Pink Gems. All of these actions will reward you with *Exclusive Intel* points which you can use to buy rewards like Designer's Reflections, and *Mysterious Clues* which you can use to unlock more Designer Columns. Exclusive Intel cannot be transferred from one designer to another, but leftover Intel can be used to exchange for rewards from any Columns featuring the same designer.
 
-`add image of intel hub rewards`
+`add image of intel hub rewards`  
+<sup>Example of a Designer Column.</sup>
 
 To access the Intel Hub, you will first need to complete the Main Story stage 2-3. Then, from the home page, tap `Design Center` in the bottom left corner, then tap `Designer Intel Hub`. 
 
 `add image of home page Design center, the design center and then the Intel hub page`
 
-To perform an Investigation, tap on one of the Designer Columns, then tap `Start Investigation`. Alternatively, you can tap `Auto-Investigate`, which will perform all of the investigation actions automatically for you while you do other things in the game. You also have the option to skip the wait time for Investigations at the cost of Pink Gems. Once you have earned enough Exclusive Intel, tap the reward you want to exchange your Intel for. You will then read a short snippet of story and select a dialog option. You will receive the same reward no matter what dialog option you select.
+To perform an Investigation, tap on one of the Designer Columns, then tap `Start Investigation`. Alternatively, you can tap `Auto-Investigate`, which will perform all of the investigation actions automatically for you while you do other things in the game. You also have the option to skip the wait time for Investigations at the cost of Pink Gems. Once you have earned enough Exclusive Intel, tap the reward you want to exchange your Intel for. You will then read a short snippet of story and select a dialog option. You will receive the same reward no matter which dialog option you select.
 
-`add image of investigations`
+`add image of investigations`  
 
 > **Did you know?**  
 Intel Hub rewards must be unlocked in order. In some cases, you may need to exchange for several rewards before you can get the Designer's Reflection.
@@ -97,6 +98,8 @@ Note: Designer Column rewards are unlocked in a specific order. You may need to 
 The Sea of Fantasy is a type of **gacha** <sup>[2](#gacha)</sup> game in *Shining Nikki.* You can summon random items from the Sea of Fantasy using *Fantasy Tickets*, *Gleaming Shards* and *Gleaming Stars*. Among the items you can win are Designer's Reflections.
 
 To find the Sea of Fantasy, tap `Gate of Heart` at the bottom of the home page. 
+
+`add image location of Gate of Heart`
 
 There are 2 versions of the Sea of Fantasy. *Sea of Fantasy: Gleam* features an increased drop rate for featured sets. These featured sets change weekly. The same items are available in the regular Sea of Fantasy, but the drop rates are a little bit different. You can cycle through the different gacha <sup>[2](#gacha)</sup> games in the Gate of Heart by tapping the arrows on the left and right of your screen.
 
@@ -125,7 +128,8 @@ Summoning with 10 tickets at once will guarantee that you win at least one SSR i
 
 Gleaming Shards and Gleaming Stars are an additional currency that can be used to Summon in Sea of Fantasy: Gleam. Gleaming Shards and Gleaming Stars can be purchased with **Star Gems** <sup>[4](#stargem)</sup>. The drop rates when using Gleaming Shards or Gleaming Stars are no different than using Fantasy Tickets. They are just another currency you can use to play Sea of Fantasy: Gleam.
 
-`add image of play with gleaming shards/stars`
+`add image of play with gleaming shards/stars`  
+<sup>Example of Sea of Fantasy: Gleam. The featured sets rotate weekly, so your view may be different. You can Summon using Star Gems by tapping the Exclusive Summon button.</sup>
 
 #### How To Summon Designer's Reflections from the Sea of Fantasy:
 
@@ -144,9 +148,8 @@ To locate the Diamond Arena from the home page, tap `Start Journey`, then tap `D
 
 To unlock the Designer's Reflection from the current exclusive set, you must finish the weekly competition in the appropriate Tier or higher. To see which Tier you need to finish in, tap `Shop` in the bottom right corner to be taken to the Arena Shop, then tap `Exchange` to see the Diamond Arena Exclusive Clothing set.
 
-`add image of DA shop designer's reflection requirements`
-
-In this example, the player must finish the week in the *Ruler of Future Reversed: 1-star* Tier or higher to purchase this Designer's Reflection.
+`add image of DA shop designer's reflection requirements`  
+<sup>Example of a Designer's Reflection in the Arena shop. In this example, you must finish the week in the *Ruler of Future Reversed: 1-star* Tier or higher to unlock *Mercury - Elves Elegy* for purchase. Once unlocked, you will need 1500 Flowers of Odes to purchase it.</sup>
 
 > **Did you know?**  
 Unlocking a Diamond Arena Exclusive item for purchase only needs to be done once per Season. Even if you finish at a lower Tier in subsequent weeks, you may still purchase the items you unlocked previously.
@@ -155,11 +158,13 @@ On the Diamond Arena page, tap `Dress Up` to coordinate three outfits based on t
 
 You can see your current Competence and the Competence of your competitors listed beneath Tier Position. Your Competence updates in real time, so any upgrades you make to your Styling Power - such as changing any of your three outfits or upgrading your Designer's Reflections - will be updated automatically in your Competence score.
 
-`add image competence`
+`add image competence`  
+<sup>Your Competence score is calculated based on the Styling Power of your three outfits</sup>
 
 To challenge a stylist, tap on any of the 3 profile pictures at the bottom of the home page. Challenge stylists with a higher Tier Position than you to increase your own Tier Position. If you challenge a stylist and win, you will swap Tier Positions with the stylist you challenged; if you challenge a stylist and lose, your Tier Position will remain the same. You will receive the Diamond Arena currency *Flower of Odes* whether you win or lose. You can also tap the `Refresh` button to swap out the 3 stylists at the bottom of the page for 3 new ones.
 
-`add image challenge rank up`
+`add image challenge rank up`  
+<sup>Increase your rank by defeating stylists with a higher Tier Position</sup>
 
 When other stylists challenge and defeat you, your Tier Position will decrease. Remember: you unlock Diamond Arena Exclusives based on the Tier you *finish* the week in, so keep an eye on your Tier Position throughout the week to make sure you don't dip below the required Tier. You have the entire season to buy the Exclusive set pieces, so even if you can't reach the required Tier right away, you should still compete to collect Flowers of Odes and increase your Styling Power to eventually compete in the higher Tiers.
 
@@ -178,7 +183,7 @@ Team up with other stylists to defeat a powerful opponent in Pinnacle Battles. E
 
 To access Pinnacle Battles from the home page, tap on `Start Journey`, switch to the `Team` tab, then tap `Pinnacle Battles`.
 
-Tap `Dress Up` and select your outfit. Then, select a difficulty and tap `Team Up`. You can invite friends or guildmates to team up with you, or you can tap `Ready` and to begin matchmaking.
+Tap `Challenge`, then tap `Dress Up` and select your outfit. Select a difficulty  using the numbers in the center of the page and tap `Team Up`. You can invite friends or guildmates to team up with you, or you can tap `Ready` and to begin matchmaking.
 
 Once you have completed the set and collected enough Shards for the Designer's Reflection, tap `Rewards`, then tap the `Exchange` button next to the Designer's Reflection.
 
@@ -190,8 +195,21 @@ Once you have completed the set and collected enough Shards for the Designer's R
 2. Exchange your shards for every item in the clothing set
 3. After you've completed the clothing set, exchange shards for the Designer's Reflection
 
+> **Did you know?**  
+Pinnacle Battles are available during specific hours. Tap the exclamation point (!) under the `Challenge` button to see what time Pinnacle Battles are available on your server.
 
 ### <a name="event">Events</a>
+
+There is almost always some kind of special event going on in *Shining Nikki*. All current events will be shown to you when you start up the game. You can also use the `Events` button or `Notices` button on the home page to see the current events. 
+
+`add image events from home page`  
+
+Events may have you completing daily activities, clearing special event stages, or playing a special event gacha <sup>[2](#gacha)</sup> to earn rewards. Check each event's rewards to see if a Designer's Reflection is available and what you need to do to earn it. Event items are available for a limited time, so be sure to participate before you run out of time.
+
+If you are not sure how to earn the event items, the News tab in Notices usually has the most complete information. From the home page, tap `Notices`, then tap the `News` tab. Tap on the name of an event to read more about it.
+
+`add image event`  
+<sup>Example of an event. In this example, you can collect a Designer's Reflection just by logging in during the event.</sup>
 
 --------
 
