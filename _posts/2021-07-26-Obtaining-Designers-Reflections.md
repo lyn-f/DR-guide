@@ -70,10 +70,6 @@ A Designer's Reflection may have additional requirements that need to be met bef
 
 At the Designer Intel Hub, Nikki can perform Investigations on various designers to write Designer Columns. During an investigation, you will read story snippets, wait for a period of time, and sometimes donate a small amount of Gold or Pink Gems. All of these actions will reward you with *Exclusive Intel* points which you can use to buy rewards like Designer's Reflections, and *Mysterious Clues* which you can use to unlock more Designer Columns. Exclusive Intel cannot be transferred from one designer to another, but leftover Intel can be used to exchange for rewards from any Columns featuring the same designer.
 
-<img src="https://lyn-f.github.io/DR-guide/IntelHubPage.jpg" width=300>
-
-<sup>Example of a Designer Column. Your Exclusive Intel points for the column's designer can be seen here</sup>
-
 To access the Intel Hub, you will first need to complete the Main Story stage 2-3. Then, from the home page, tap `Design Center` in the bottom left corner, then tap `Designer Intel Hub`. 
 
 <img src="https://lyn-f.github.io/DR-guide/DesignCenterNav.jpg" width=300>
@@ -82,7 +78,8 @@ To access the Intel Hub, you will first need to complete the Main Story stage 2-
 
 To perform an Investigation, tap on one of the Designer Columns, then tap `Start Investigation`. Alternatively, you can tap `Auto-Investigate`, which will perform all of the investigation actions automatically for you while you do other things in the game. You also have the option to skip the wait time for Investigations at the cost of Pink Gems. Once you have earned enough Exclusive Intel, tap the reward you want to exchange your Intel for. You will then read a short snippet of story and select a dialog option. You will receive the same reward no matter which dialog option you select.
 
-`add image of investigations`  
+<img src="https://lyn-f.github.io/DR-guide/IntelHubPage.jpg" width=300>  
+<sup>Example of a Designer Column. Your Exclusive Intel points for the column's designer can be found around the middle of the page</sup>
 
 > **Did you know?**  
 Intel Hub rewards must be unlocked in order. In some cases, you may need to exchange for several rewards before you can get the Designer's Reflection.
