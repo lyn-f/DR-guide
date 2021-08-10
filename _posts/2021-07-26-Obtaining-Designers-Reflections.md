@@ -16,12 +16,12 @@ You can collect Designer's Reflections from each of the following sources:
 * [Designer Intel Hub](#intel)
 * [Sea of Fantasy](#fantasy)
 * [Diamond Arena](#arena)
-* [Pinnacle Battle](#pinnacle)
+* [Pinnacle Battles](#pinnacle)
 * [Events](#event)
 
 ### <a name="mainstory">Main Story and Mind Maze</a>
 
-Your first Designer's Reflection, *Leonid - Twinkle Twinkle*, is obtained when you start stage 1-5 of the Main Story. You can only receive *Twinkle Twinkle* once through this method, but its **echo** <sup>[1](#echo)</sup> can be obtained through the Sea of Fantasy.
+Your first Designer's Reflection, *Leonid - Twinkle Twinkle*, is given to you on stage 1-5 of the Main Story. You can only receive *Twinkle Twinkle* once through this method, but its **echo** <sup>[1](#echo)</sup> can be obtained through the Sea of Fantasy.
 
 *Leonid - Twinkle Twinkle* is the only Designer's Reflection you can get simply by playing the Main Story. However, you should complete Main Story and Mind Maze stages to unlock sets in the Workshop, which can be used to collect more Designer's Reflections.
 
@@ -56,10 +56,6 @@ Crafting the Workshop set pieces requires both materials and Gold. Tap any mater
 
 When you complete the set, tap on the `Invoke` tab. You can tap the `Invoke` button at the bottom of the page to receive the Designer's Reflection after meeting any additional requirements. After Invoking the first time, you can Re-Invoke the set for echoes <sup>[1](#echo)</sup>, which you will need later for upgrading. Re-Invoking a set requires materials and Gold; you do not need to craft the set a second time.
 
-> **Did you know?**  
-A Designer's Reflection may have additional requirements that need to be met before you can Invoke it. You can find these requirements on the Invoke tab. Once you meet a requirement, you will see a check mark to the right.
-
-
 <img src="https://lyn-f.github.io/DR-guide/workshopinvoke.jpg" width=300>  
 <sup>Tap the Invoke tab to view the Invoke page</sup>
 
@@ -67,8 +63,10 @@ A Designer's Reflection may have additional requirements that need to be met bef
 <img src="https://lyn-f.github.io/DR-guide/WorkshoReinvoke.jpg" width=300>  
 <sup>After you've Invoked a Designer's Reflection, you can Reinvoke it for echoes</sup>
 
+> **Did you know?**  
+A Designer's Reflection may have additional requirements that need to be met before you can Invoke it. You can find these requirements on the Invoke tab. Once you meet a requirement, you will see a check mark to the right.
 
-#### How To Invoke a Designer's Reflection:
+#### How To Invoke a Designer's Reflection from the Workshop:
 
 1. Unlock the set pieces by completing the required stages
 2. Go to the Workshop and tap on the set you wish you craft
@@ -78,7 +76,7 @@ A Designer's Reflection may have additional requirements that need to be met bef
 
 ### <a name="intel">Designer Intel Hub</a>
 
-At the Designer Intel Hub, Nikki can perform Investigations on various designers to write Designer Columns. During an investigation, you will read story snippets, wait for a period of time, and sometimes donate a small amount of Gold or Pink Gems. All of these actions will reward you with *Exclusive Intel* points which you can use to buy rewards like Designer's Reflections, and *Mysterious Clues* which you can use to unlock more Designer Columns. Exclusive Intel cannot be transferred from one designer to another, but leftover Intel can be used to exchange for rewards from any Columns featuring the same designer.
+At the Designer Intel Hub, Nikki can investigate various designers to write Designer Columns. During an investigation, you will read story snippets, wait for a period of time, and sometimes donate a small amount of Gold or Pink Gems. All of these actions will reward you with *Exclusive Intel* points which you can exchange for rewards like Designer's Reflections, and *Mysterious Clues* which you can exchange for more Designer Columns. Exclusive Intel cannot be transferred from one designer to another, but leftover Intel can be exchanged for rewards from any Columns featuring the same designer.
 
 To access the Intel Hub, you will first need to complete the Main Story stage 2-3. Then, from the home page, tap `Design Center` in the bottom left corner, then tap `Designer Intel Hub`. 
 
@@ -89,27 +87,27 @@ To access the Intel Hub, you will first need to complete the Main Story stage 2-
 <img src="https://lyn-f.github.io/DR-guide/IntelHubLanding.jpg" width=300>  
 <sup>The Designer Intel Hub. Each section shown here is a Designer Column</sup>
 
-To perform an Investigation, tap on one of the Designer Columns, then tap `Start Investigation`. Alternatively, you can tap `Auto-Investigate`, which will perform all of the investigation actions automatically for you while you do other things in the game. You also have the option to skip the wait time for Investigations at the cost of Pink Gems. Once you have earned enough Exclusive Intel, tap the reward you want to exchange your Intel for. You will then read a short snippet of story and select a dialog option. You will receive reward that you selected no matter which dialog option you choose.
+To perform an Investigation, tap on one of the Designer Columns, then tap `Start Investigation`. Alternatively, you can tap `Auto-Investigate`, which will perform all of the investigation actions automatically. You have the option to skip the wait time for Auto-Investigations by spending Pink Gems. Once you have earned enough Exclusive Intel, tap the reward you want to exchange your Intel for. You will then read a short snippet of story and select a dialog option. You will receive reward that you selected no matter which dialog option you choose.
 
 <img src="https://lyn-f.github.io/DR-guide/IntelHubPage.jpg" width=300>  
 <sup>Example of a Designer Column. Your Exclusive Intel points for the column's designer can be found around the middle of the page</sup>
 
-> **Did you know?**  
-Intel Hub rewards must be unlocked in order. In some cases, you may need to exchange for several rewards before you can get the Designer's Reflection.
+Intel Hub rewards must be unlocked in a specific order. You may need to buy other items with Exclusive Intel before you can unlock the Designer's Reflection.
 
-Designer Columns can be unlocked by either progressing through the Main Story or using Mysterious Clues. Some of the Designer Column rewards may include sets whose clothing pieces or Designer's Reflections you have already obtained using other methods. If you are looking for echoes <sup>[1](#echo)</sup> to upgrade your Designer's Reflections and you aren't sure where to obtain them, try looking for its clothing set in the Intel Hub.
+Designer Columns can be unlocked by either progressing through the Main Story or using Mysterious Clues. You can preview the reward for a locked Designer Column by tapping `Rewards` on that column.
 
 <img src="https://lyn-f.github.io/DR-guide/IntelHubRewards.jpg" width=300>  
 <sup>Tap `Rewards` on a locked Designer Column to see what rewards are available before you unlock it</sup>
 
-#### How To Obtain Designer's Reflections From the Intel Hub:
+> **Did you know?**  
+Some of the Designer Column rewards may include Designer's Reflections that you have already collected using other methods. If you are looking for echoes <sup>[1](#echo)</sup> to upgrade your Designer's Reflections and you aren't sure where to find them, try looking for its clothing set in the Intel Hub.
+
+#### How To Earn Designer's Reflections From the Intel Hub:
 
 1. Unlock Designer Columns by either progressing through the Main Story or using Mysterious Clues
 2. Tap on a Designer Column
-3. Complete investigations and collect Exclusive Intel
+3. Complete investigations to collect Exclusive Intel
 4. Tap the Designer's Reflection to buy it with Exclusive Intel
-
-Note: Designer Column rewards are unlocked in a specific order. You may need to buy other items with Exclusive Intel before you can unlock the Designer's Reflection.
 
 ### <a name="fantasy">Sea of Fantasy</a>
 
@@ -134,14 +132,10 @@ The following table shows the drop rate of Designer's Reflections in the Gate of
 <img src="https://lyn-f.github.io/DR-guide/GleamRewards.jpg" width=300>  
 <sup>Tap `All Items` for a complete list of available items and drop rates</sup>
 
-> **Did you know?**  
-Because there is randomness involved in gacha <sup>[2](#gacha)</sup> games, there is a chance that you will receive duplicate items. Duplicate Designer's Reflections will automatically be turned into echoes <sup>[1](#echo)</sup>. Duplicate clothes and echoes can be Decomposed for Gold and upgrade materials. 
-
 #### Fantasy Tickets
 
-Fantasy Tickets can be collected in a variety of ways, such as sign-in rewards, events, achievements, and more. Fantasy Tickets can also be purchased for Pink Gems, Guild Coins, Event Currency, or real money in the **Shop**<sup>[3](#shop)</sup>. You can quickly exchange Pink Gems for Fantasy Tickets by tapping `Summon` without any tickets in your inventory or `Summon x10` with less than 10 tickets in your inventory.
+Fantasy Tickets can be collected in a variety of ways, such as sign-in rewards, events, achievements, and more. Fantasy Tickets can also be purchased for Pink Gems, Guild Coins, Event Currency, or real money in the **Shop**<sup>[3](#shop)</sup>. You can quickly exchange your Pink Gems for Fantasy Tickets by tapping `Summon` without any tickets in your inventory or `Summon x10` with less than 10 tickets in your inventory.
   
-
 <img src="https://lyn-f.github.io/DR-guide/fantasysummon.jpg" width=300>  
 <sup>Sea of Fantasy. You can see how many Fantasy Tickets you have in the bottom right corner</sup>
 
@@ -154,6 +148,9 @@ Gleaming Shards and Gleaming Stars are an additional currency that can be used t
 <img src="https://lyn-f.github.io/DR-guide/GleamHome.jpg" width=300>  
 <sup>Example of Sea of Fantasy: Gleam. The featured sets rotate weekly, so your view may be different. You can Summon using Star Gems by tapping the Exclusive Summon button.</sup>
 
+> **Did you know?**  
+Because there is randomness involved in gacha <sup>[2](#gacha)</sup> games, there is a chance that you will receive duplicate items. Duplicate Designer's Reflections will automatically be turned into echoes <sup>[1](#echo)</sup>. Duplicate clothes and echoes can be decomposed for Gold and upgrade materials. 
+
 #### How To Summon Designer's Reflections from the Sea of Fantasy:
 
 1. Collect Fantasy Tickets and/or Star Gems
@@ -163,7 +160,7 @@ Gleaming Shards and Gleaming Stars are an additional currency that can be used t
 
 ### <a name="arena">Diamond Arena</a>
 
-Stylists can compete against one another in the Diamond Arena for the chance to purchase Diamond Arena Exclusive clothing sets, including the set's Designer's Reflection. Unlike the Designer Intel Hub, you can exchange for these items in any order once you've met the requirements to purchase them.
+Stylists can compete against one another in the Diamond Arena for the chance to purchase exclusive clothing sets, including the set's Designer's Reflection. 
 
 To locate the Diamond Arena from the home page, tap `Start Journey`, then tap `Diamond Arena`. 
 
@@ -171,8 +168,7 @@ To locate the Diamond Arena from the home page, tap `Start Journey`, then tap `D
 
 <img src="https://lyn-f.github.io/DR-guide/ArenaNav.jpg" width=300>
 
-To unlock the Designer's Reflection from the current exclusive set, you must finish the weekly competition in the appropriate Tier or higher. To see which Tier you need to finish in, tap `Shop` in the bottom right corner to be taken to the Arena Shop, then tap `Exchange` to see the Diamond Arena Exclusive Clothing set.
-  
+To unlock the Designer's Reflection from the current Diamond Arena Exclusive set, you must finish the weekly competition in the appropriate Tier or higher. To see which Tier you need to finish in, tap `Shop` in the bottom right corner to be taken to the Arena Shop, then tap `Exchange` to see the Diamond Arena Exclusive Clothing set.
 
 <img src="https://lyn-f.github.io/DR-guide/arenashopnav1.jpg" width=300>
   
@@ -180,9 +176,6 @@ To unlock the Designer's Reflection from the current exclusive set, you must fin
 
 <img src="https://lyn-f.github.io/DR-guide/ArenaShop.jpg" width=300>   
 <sup>Example of a Designer's Reflection in the Arena shop. In this example, you must finish the week in the *Ruler of Future Reversed: 1-star* Tier or higher to unlock *Mercury - Elves Elegy* for purchase. Once unlocked, you will need 1500 Flowers of Odes to purchase it</sup>
-
-> **Did you know?**  
-Unlocking a Diamond Arena Exclusive item for purchase only needs to be done once per Season. Even if you finish at a lower Tier in subsequent weeks, you may still purchase the items you unlocked previously.
 
 On the Diamond Arena page, tap `Dress Up` to coordinate three outfits based on the Weekly Theme. You compete with other stylists based on the Styling Power of all three outfits combined. Your combined Styling Power is also known as your *Competence*. 
 
@@ -196,20 +189,22 @@ To challenge a stylist, tap on any of the 3 profile pictures at the bottom of th
 <img src="https://lyn-f.github.io/DR-guide/ArenaOpponents.jpg" width=300>  
 <sup>Example of Diamond Arena opponents. Increase your rank by defeating stylists with a higher Tier Position</sup>
 
-When other stylists challenge and defeat you, your Tier Position will decrease. Remember: you unlock Diamond Arena Exclusives based on the Tier you *finish* the week in, so keep an eye on your Tier Position throughout the week to make sure you don't dip below the required Tier. You have the entire season to buy the Exclusive set pieces, so even if you can't reach the required Tier right away, you should still compete to collect Flowers of Odes and increase your Styling Power to eventually compete in the higher Tiers.
+When other stylists challenge and defeat you, your Tier Position will decrease. Remember: you unlock Diamond Arena Exclusives based on the Tier you *finish* the week in, so keep an eye on your Tier Position throughout the week to make sure you don't dip below the required Tier.
 
-#### How to Collect Designer's Reflections from the Diamond Arena:
+> **Did you know?**  
+Unlocking a Diamond Arena Exclusive item for purchase only needs to be done once per Season. Even if you finish at a lower Tier in subsequent weeks, you may still purchase the items you unlocked previously.
 
-1. Check the requirements to buy the Designer's Reflection in the Arena Shop
-2. From the Diamond Arena page, tap `Dress Up` and coordinate three outfits based on the Weekly Theme
-3. Return to the Diamond Arena page and tap on a player to challenge them and collect Flowers of Odes
-4. Increase your Tier by challenging players with a higher Tier Position than you
-5. Finish at or above the Tier required to unlock the Designer's Reflection for purchase
-6. Purchase the Designer's Reflection using Flowers of Odes
+#### How to Earn Designer's Reflections from the Diamond Arena:
+
+1. Tap `Dress Up` and coordinate three outfits based on the Weekly Theme
+2. Return to the Diamond Arena page and tap on a player to challenge them and collect Flowers of Odes
+3. Increase your Tier by challenging players with a higher Tier Position than you
+4. Finish at or above the required Tier to unlock the Designer's Reflection for purchase
+6. Purchase the Designer's Reflection from the Arena Shop with Flowers of Odes before the end of the Season
 
 ### <a name="pinnacle">Pinnacle Battles</a>
 
-Team up with other stylists to defeat a powerful opponent in Pinnacle Battles. Each time your team defeats the opponent, you will earn Shards of the opponent's Designer's Reflection, as well as Shards of its clothing set. You must buy every item in the set with Shards before you can unlock the Designer's Reflection.
+Team up with other stylists to defeat a powerful opponent in Pinnacle Battles. Each time your team defeats the opponent, you will earn Shards of the opponent's Designer's Reflection, as well as Shards of the Pinnacle Battle Exclusive clothing set. You must buy every item in the set with Shards before you can unlock the Designer's Reflection.
 
 To access Pinnacle Battles from the home page, tap on `Start Journey`, switch to the `Team` tab, then tap `Pinnacle Battles`.
 
@@ -217,7 +212,7 @@ To access Pinnacle Battles from the home page, tap on `Start Journey`, switch to
 
 <img src="https://lyn-f.github.io/DR-guide/PBTeamNav.jpg" width=300>
 
-Tap `Challenge`, then tap `Dress Up` and select your outfit. Select a difficulty  using the numbers in the center of the page and tap `Team Up`. You can invite friends or guildmates to team up with you, or you can tap `Ready` and to begin matchmaking.
+Tap `Challenge`, then tap `Dress Up` and coordinate your outfit. Select a difficulty using the numbers in the center of the page and tap `Team Up`. You can invite friends or guildmates to team up with you, or you can tap `Ready` and to begin matchmaking.
 
 <img src="https://lyn-f.github.io/DR-guide/PinnacleBattleTeamUp.jpg" width=300>
 
@@ -227,14 +222,16 @@ Once you have completed the set and collected enough Shards for the Designer's R
 
 <img src="https://lyn-f.github.io/DR-guide/PinnacleBattleRewardsPage.jpg" width=300>
 
-#### How to Collect Designer's Reflections from Pinnacle Battles:
-
-1. Team up with other stylists and compete against the opponent in a Styling Battle to collect Shards
-2. Exchange your shards for every item in the clothing set
-3. After you've completed the clothing set, exchange shards for the Designer's Reflection
-
 > **Did you know?**  
 Pinnacle Battles are available during specific hours. Tap the exclamation point (!) under the `Challenge` button to see what time Pinnacle Battles are available on your server.
+
+#### How to Earn Designer's Reflections from Pinnacle Battles:
+
+1. Tap `Dress Up` and coordinate an outfit based on the Pinnacle Battle theme
+2. Tap `Team Up`, then tap `Ready` to enter matchmaking
+3. Defeat the opponent to collect Shards of both the exclusive clothing set and the Designer's Reflection
+4. Purchase every item in the clothing set with your collected Shards
+5. Purchase the Designer's Reflection with your collected Shards
 
 ### <a name="event">Events</a>
 
@@ -251,7 +248,6 @@ If you are not sure how to earn the event items, the News tab in Notices usually
   
 <img src="https://lyn-f.github.io/DR-guide/EventNoticeNews.jpg" width=300>  
 <sup>The most complete information about an event can be found in the `News` tab of `Notices`</sup>
-
 
 
 --------
