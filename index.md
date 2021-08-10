@@ -23,16 +23,16 @@ Whether you are new to the *Nikki* series or a veteran Stylist exploring the gam
 
 ## Table of contents
 
-**Note: This guide is a work-in-progress.**
+**Note: This guide is a work in progress.**
 
 [Collecting Designer's Reflections](https://lyn-f.github.io/DR-guide/get/)  
-* Main Story and Mind Maze
-* Workshop
-* Designer Intel Hub
-* Sea of Fantasy
-* Diamond Arena
-* Pinnacle Battles
-* Events  
+* [Main Story and Mind Maze](https://lyn-f.github.io/DR-guide/get/#mainstory)
+* [Workshop](https://lyn-f.github.io/DR-guide/get/#wshop)
+* [Designer Intel Hub](https://lyn-f.github.io/DR-guide/get/#intel)
+* [Sea of Fantasy](https://lyn-f.github.io/DR-guide/get/#fantasy)
+* [Diamond Arena](https://lyn-f.github.io/DR-guide/get/#arena)
+* [Pinnacle Battles](https://lyn-f.github.io/DR-guide/get/#pinnacle)
+* [Events](https://lyn-f.github.io/DR-guide/get/#event)  
 
 Viewing Your Designer's Reflection Collection
 * The Index
