@@ -10,7 +10,7 @@ author: lyn-f
 Shining Nikki ©️ Papergames 2013-2021  
 *This guide is student work and was created for educational purposes only.*  
 Created by Lyn F. 7/26/2021  
-Last updated 8/9/2021
+Last updated 8/10/2021
 
 ## Introduction
 
