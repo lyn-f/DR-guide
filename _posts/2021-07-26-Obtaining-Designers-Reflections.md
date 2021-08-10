@@ -186,7 +186,7 @@ You can see your current Competence and the Competence of your competitors liste
 <img src="https://lyn-f.github.io/DR-guide/ArenaCompetenceTier.jpg" width=300>  
 <sup>Your Competence score is calculated based on the Styling Power of your three outfits</sup>
 
-To challenge a stylist, tap on any of the 3 profile pictures at the bottom of the home page. Challenge stylists with a higher Tier Position than you to increase your own Tier Position. If you challenge a stylist and win, you will swap Tier Positions with the stylist you challenged; if you challenge a stylist and lose, your Tier Position will remain the same. You will receive the Diamond Arena currency *Flower of Odes* whether you win or lose. You can also tap the `Refresh` button to swap out the 3 stylists at the bottom of the page for 3 new ones.
+To challenge a stylist, tap on any of the 3 profile pictures at the bottom of the home page. Challenge stylists with a higher Tier Position than you to increase your own Tier Position. If you win against a stylist of a higher Tier, you will swap Tier Positions with the stylist you challenged; if you lose, your Tier Position will remain the same. You will receive the Diamond Arena currency *Flower of Odes* whether you win or lose. You can also tap the `Refresh` button to swap out the 3 stylists at the bottom of the page for 3 new ones.
 
 <img src="https://lyn-f.github.io/DR-guide/ArenaOpponents.jpg" width=300>  
 <sup>Example of Diamond Arena opponents. Increase your rank by defeating stylists with a higher Tier Position</sup>
