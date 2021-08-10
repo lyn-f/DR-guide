@@ -87,7 +87,9 @@ To access the Intel Hub, you will first need to complete the Main Story stage 2-
 <img src="https://lyn-f.github.io/DR-guide/IntelHubLanding.jpg" width=300>  
 <sup>The Designer Intel Hub. Each section shown here is a Designer Column</sup>
 
-To perform an Investigation, tap on one of the Designer Columns, then tap `Start Investigation`. Alternatively, you can tap `Auto-Investigate`, which will perform all of the investigation actions automatically. You have the option to skip the wait time for Auto-Investigations by spending Pink Gems. Once you have earned enough Exclusive Intel, tap the reward you want to exchange your Intel for. You will then read a short snippet of story and select a dialog option. You will receive reward that you selected no matter which dialog option you choose.
+To perform an Investigation, tap on one of the Designer Columns, then tap `Start Investigation`. Alternatively, you can tap `Auto-Investigate`, which will perform all of the investigation actions automatically. You have the option to skip the wait time for Auto-Investigations by spending Pink Gems. 
+
+Once you have earned enough Exclusive Intel, tap the reward you want to exchange your Intel for. You will then read a short snippet of story and select a dialog option. You will receive reward that you selected no matter which dialog option you choose.
 
 <img src="https://lyn-f.github.io/DR-guide/IntelHubPage.jpg" width=300>  
 <sup>Example of a Designer Column. Your Exclusive Intel points for the column's designer can be found around the middle of the page</sup>
