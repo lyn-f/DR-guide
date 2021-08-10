@@ -44,6 +44,9 @@ To access the Workshop from the home page, tap `Design Center` in the bottom lef
 
 <img src="https://lyn-f.github.io/DR-guide/DesignCenterWorkshop.jpg" width=300>
 
+<img src="https://lyn-f.github.io/DR-guide/workshoplanding.jpg" width=300>  
+<sup>Workshop landing page. Use the tabs at the top to view different sets. Tap on a set to begin crafting</sup>
+
 Crafting the Workshop set pieces requires both materials and Gold. Tap any material to learn its source(s). 
 
 <img src="https://lyn-f.github.io/DR-guide/WorkshopCrafting.jpg" width=300>
@@ -56,7 +59,14 @@ When you complete the set, tap on the `Invoke` tab. You can tap the `Invoke` but
 > **Did you know?**  
 A Designer's Reflection may have additional requirements that need to be met before you can Invoke it. You can find these requirements on the Invoke tab. Once you meet a requirement, you will see a check mark to the right.
 
-`add image of Invoke page and Re-Invoke`
+
+<img src="https://lyn-f.github.io/DR-guide/workshopinvoke.jpg" width=300>  
+<sup>Tap the Invoke tab to view the Invoke page</sup>
+
+
+<img src="https://lyn-f.github.io/DR-guide/WorkshoReinvoke.jpg" width=300>  
+<sup>After you've Invoked a Designer's Reflection, you can Reinvoke it for echoes</sup>
+
 
 #### How To Invoke a Designer's Reflection:
 
@@ -75,6 +85,9 @@ To access the Intel Hub, you will first need to complete the Main Story stage 2-
 <img src="https://lyn-f.github.io/DR-guide/DesignCenterNav.jpg" width=300>
 
 <img src="https://lyn-f.github.io/DR-guide/DesignCenterIntelHub.jpg" width=300>
+    
+<img src="https://lyn-f.github.io/DR-guide/IntelHubLanding.jpg" width=300>  
+<sup>The Designer Intel Hub. Each section shown here is a Designer Column</sup>
 
 To perform an Investigation, tap on one of the Designer Columns, then tap `Start Investigation`. Alternatively, you can tap `Auto-Investigate`, which will perform all of the investigation actions automatically for you while you do other things in the game. You also have the option to skip the wait time for Investigations at the cost of Pink Gems. Once you have earned enough Exclusive Intel, tap the reward you want to exchange your Intel for. You will then read a short snippet of story and select a dialog option. You will receive reward that you selected no matter which dialog option you choose.
 
@@ -86,7 +99,8 @@ Intel Hub rewards must be unlocked in order. In some cases, you may need to exch
 
 Designer Columns can be unlocked by either progressing through the Main Story or using Mysterious Clues. Some of the Designer Column rewards may include sets whose clothing pieces or Designer's Reflections you have already obtained using other methods. If you are looking for echoes <sup>[1](#echo)</sup> to upgrade your Designer's Reflections and you aren't sure where to obtain them, try looking for its clothing set in the Intel Hub.
 
-`add images for Intel Hub exchange mysterious clues`
+<img src="https://lyn-f.github.io/DR-guide/IntelHubRewards.jpg" width=300>  
+<sup>Tap `Rewards` on a locked Designer Column to see what rewards are available before you unlock it</sup>
 
 #### How To Obtain Designer's Reflections From the Intel Hub:
 
@@ -126,6 +140,10 @@ Because there is randomness involved in gacha <sup>[2](#gacha)</sup> games, ther
 #### Fantasy Tickets
 
 Fantasy Tickets can be collected in a variety of ways, such as sign-in rewards, events, achievements, and more. Fantasy Tickets can also be purchased for Pink Gems, Guild Coins, Event Currency, or real money in the **Shop**<sup>[3](#shop)</sup>. You can quickly exchange Pink Gems for Fantasy Tickets by tapping `Summon` without any tickets in your inventory or `Summon x10` with less than 10 tickets in your inventory.
+  
+
+<img src="https://lyn-f.github.io/DR-guide/fantasysummon.jpg" width=300>  
+<sup>Sea of Fantasy. You can see how many Fantasy Tickets you have in the bottom right corner</sup>
 
 Summoning with 10 tickets at once will guarantee that you win at least one SSR item. Because many Designer's Reflections are rarity SSR and above, you may increase your odds of getting a Designer's Reflection by spending 10 Fantasy Tickets at once by tapping `Summon x10`. However, you are not guaranteed to get a Designer's Reflection on every summon, even if you use `Summon x10`. 
 
@@ -154,6 +172,11 @@ To locate the Diamond Arena from the home page, tap `Start Journey`, then tap `D
 <img src="https://lyn-f.github.io/DR-guide/ArenaNav.jpg" width=300>
 
 To unlock the Designer's Reflection from the current exclusive set, you must finish the weekly competition in the appropriate Tier or higher. To see which Tier you need to finish in, tap `Shop` in the bottom right corner to be taken to the Arena Shop, then tap `Exchange` to see the Diamond Arena Exclusive Clothing set.
+  
+
+<img src="https://lyn-f.github.io/DR-guide/arenashopnav1.jpg" width=300>
+  
+<img src="https://lyn-f.github.io/DR-guide/ToArenaShop.jpg" width=300>
 
 <img src="https://lyn-f.github.io/DR-guide/ArenaShop.jpg" width=300>   
 <sup>Example of a Designer's Reflection in the Arena shop. In this example, you must finish the week in the *Ruler of Future Reversed: 1-star* Tier or higher to unlock *Mercury - Elves Elegy* for purchase. Once unlocked, you will need 1500 Flowers of Odes to purchase it</sup>
@@ -220,11 +243,16 @@ There is almost always some kind of special event going on in *Shining Nikki*. A
 <img src="https://lyn-f.github.io/DR-guide/EventInfoNav.jpg" width=300>
 
 Events may have you completing daily activities, clearing special event stages, or playing a special event gacha <sup>[2](#gacha)</sup> to earn rewards. Check each event's rewards to see if a Designer's Reflection is available and what you need to do to earn it. Event items are available for a limited time, so be sure to participate before you run out of time.
+  
+<img src="https://lyn-f.github.io/DR-guide/EventExample.jpg" width=300>  
+<sup>Example of an event. In this example, you can collect a Designer's Reflection just by logging in during the event</sup>
 
 If you are not sure how to earn the event items, the News tab in Notices usually has the most complete information. From the home page, tap `Notices`, then tap the `News` tab. Tap on the name of an event to read more about it.
+  
+<img src="https://lyn-f.github.io/DR-guide/EventNoticeNews.jpg" width=300>  
+<sup>The most complete information about an event can be found in the `News` tab of `Notices`</sup>
 
-<img src="https://lyn-f.github.io/DR-guide/EventExample.jpg" width=300>  
-<sup>Example of an event. In this example, you can collect a Designer's Reflection just by logging in during the event.</sup>
+
 
 --------
 
