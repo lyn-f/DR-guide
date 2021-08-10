@@ -23,9 +23,9 @@ You can collect Designer's Reflections from each of the following sources:
 
 Your first Designer's Reflection, *Leonid - Twinkle Twinkle*, is given to you on stage 1-5 of the Main Story. You can only receive *Twinkle Twinkle* once through this method, but its **echo** <sup>[1](#echo)</sup> can be obtained through the Sea of Fantasy.
 
-*Leonid - Twinkle Twinkle* is the only Designer's Reflection you can get simply by playing the Main Story. However, you should complete Main Story and Mind Maze stages to unlock sets in the Workshop, which can be used to collect more Designer's Reflections.
+*Leonid - Twinkle Twinkle* is the only Designer's Reflection you can get directly from the Main Story. However, Main Story and Mind Maze stages unlock sets and Designer's Reflections in the Workshop.
 
-To access the Main Story from the home page, tap `Start Journey` at the bottom of the page, then tap `Main Story` or `Mind Maze`.
+To access the Main Story or Mind Maze from the home page, tap `Start Journey` at the bottom of the page, then tap `Main Story` or `Mind Maze`.
 
 <img src="https://lyn-f.github.io/DR-guide/StartJourney.jpg" width=300>
 
@@ -54,7 +54,7 @@ Crafting the Workshop set pieces requires both materials and Gold. Tap any mater
 <img src="https://lyn-f.github.io/DR-guide/WorkshopSource.jpg" width=300>  
 <sup>Tap a material to learn its source. A material may have multiple sources. You can use the `Go` button as a shortcut to the item's source</sup>
 
-When you complete the set, tap on the `Invoke` tab. You can tap the `Invoke` button at the bottom of the page to receive the Designer's Reflection after meeting any additional requirements. After Invoking the first time, you can Re-Invoke the set for echoes <sup>[1](#echo)</sup>, which you will need later for upgrading. Re-Invoking a set requires materials and Gold; you do not need to craft the set a second time.
+When you complete the set, tap on the `Invoke` tab. You can tap the `Invoke` button at the bottom of the page to receive the Designer's Reflection after meeting any additional requirements. You can then Re-Invoke the set for echoes <sup>[1](#echo)</sup>, which you will need later for upgrading. Re-Invoking a set requires materials and Gold; you do not need to craft the set a second time.
 
 <img src="https://lyn-f.github.io/DR-guide/workshopinvoke.jpg" width=300>  
 <sup>Tap the Invoke tab to view the Invoke page</sup>
@@ -76,9 +76,9 @@ A Designer's Reflection may have additional requirements that need to be met bef
 
 ### <a name="intel">Designer Intel Hub</a>
 
-At the Designer Intel Hub, Nikki can investigate various designers to write Designer Columns. During an investigation, you will read story snippets, wait for a period of time, and sometimes donate a small amount of Gold or Pink Gems. All of these actions will reward you with *Exclusive Intel* points which you can exchange for rewards like Designer's Reflections, and *Mysterious Clues* which you can exchange for more Designer Columns. Exclusive Intel cannot be transferred from one designer to another, but leftover Intel can be exchanged for rewards from any Columns featuring the same designer.
+At the Designer Intel Hub, Nikki can investigate various designers to write Designer Columns. During an investigation, you read story snippets, wait for a period of time, and sometimes donate Gold or Pink Gems. All of these actions will reward you with *Exclusive Intel* points which you can exchange for rewards like Designer's Reflections, and *Mysterious Clues* which you can exchange for more Designer Columns. Exclusive Intel cannot be transferred from one designer to another, but leftover Exclusive Intel can be exchanged for rewards from any Columns featuring the same designer.
 
-To access the Intel Hub, you will first need to complete the Main Story stage 2-3. Then, from the home page, tap `Design Center` in the bottom left corner, then tap `Designer Intel Hub`. 
+To access the Designer Intel Hub, you will first need to complete the Main Story stage 2-3. Then, from the home page, tap `Design Center` in the bottom left corner, then tap `Designer Intel Hub`. 
 
 <img src="https://lyn-f.github.io/DR-guide/DesignCenterNav.jpg" width=300>
 
@@ -87,7 +87,7 @@ To access the Intel Hub, you will first need to complete the Main Story stage 2-
 <img src="https://lyn-f.github.io/DR-guide/IntelHubLanding.jpg" width=300>  
 <sup>The Designer Intel Hub. Each section shown here is a Designer Column</sup>
 
-To perform an Investigation, tap on one of the Designer Columns, then tap `Start Investigation`. Alternatively, you can tap `Auto-Investigate`, which will perform all of the investigation actions automatically. You have the option to skip the wait time for Auto-Investigations by spending Pink Gems. 
+To start an Investigation, tap on one of the Designer Columns, then tap `Start Investigation`. Alternatively, you can tap `Auto-Investigate`, which will perform all of the investigation actions automatically. You can skip the wait time for Auto-Investigations by spending Pink Gems. 
 
 Once you have earned enough Exclusive Intel, tap the reward you want to exchange your Intel for. You will then read a short snippet of story and select a dialog option. You will receive reward that you selected no matter which dialog option you choose.
 
@@ -157,7 +157,7 @@ Because there is randomness involved in gacha <sup>[2](#gacha)</sup> games, ther
 
 1. Collect Fantasy Tickets and/or Star Gems
 2. Tap `Gate of Heart`
-3. Tap the arrows on the left and right of your screen to navigate to Sea of Fantasy or Sea of Fantasy: Gleam
+3. Tap the left or right arrows to navigate to Sea of Fantasy or Sea of Fantasy: Gleam
 4. Tap `Summon` or `Summon x10` to use Fantasy Tickets, or Tap `Exclusive Summon` to use Star Gems
 
 ### <a name="arena">Diamond Arena</a>
@@ -181,7 +181,7 @@ To unlock the Designer's Reflection from the current Diamond Arena Exclusive set
 
 On the Diamond Arena page, tap `Dress Up` to coordinate three outfits based on the Weekly Theme. You compete with other stylists based on the Styling Power of all three outfits combined. Your combined Styling Power is also known as your *Competence*. 
 
-You can see your current Competence and the Competence of your competitors listed beneath Tier Position. Your Competence updates in real time, so any upgrades you make to your Styling Power - such as changing any of your three outfits or upgrading your Designer's Reflections - will be updated automatically in your Competence score.
+You can see your current Competence and the Competence of your competitors listed beneath Tier Position. Your Competence updates in real time. Any upgrades you make to your Styling Power - such as changing any of your three outfits or upgrading your Designer's Reflections - will be updated automatically in your Competence score.
 
 <img src="https://lyn-f.github.io/DR-guide/ArenaCompetenceTier.jpg" width=300>  
 <sup>Your Competence score is calculated based on the Styling Power of your three outfits</sup>
@@ -206,7 +206,7 @@ Unlocking a Diamond Arena Exclusive item for purchase only needs to be done once
 
 ### <a name="pinnacle">Pinnacle Battles</a>
 
-Team up with other stylists to defeat a powerful opponent in Pinnacle Battles. Each time your team defeats the opponent, you will earn Shards of the opponent's Designer's Reflection, as well as Shards of the Pinnacle Battle Exclusive clothing set. You must buy every item in the set with Shards before you can unlock the Designer's Reflection.
+Team up with other stylists to defeat a powerful opponent in Pinnacle Battles. Each time your team defeats the opponent, you will earn Shards of the Pinnacle Battle Exclusive set. You must buy every piece of clothing with Shards before you can unlock the Designer's Reflection.
 
 To access Pinnacle Battles from the home page, tap on `Start Journey`, switch to the `Team` tab, then tap `Pinnacle Battles`.
 
@@ -231,7 +231,7 @@ Pinnacle Battles are available during specific hours. Tap the exclamation point 
 
 1. Tap `Dress Up` and coordinate an outfit based on the Pinnacle Battle theme
 2. Tap `Team Up`, then tap `Ready` to enter matchmaking
-3. Defeat the opponent to collect Shards of both the exclusive clothing set and the Designer's Reflection
+3. Defeat the opponent to collect Shards
 4. Purchase every item in the clothing set with your collected Shards
 5. Purchase the Designer's Reflection with your collected Shards
 
